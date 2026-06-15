@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { parseFile } from '@/lib/parseFile';
 
+export const dynamic = 'force-static';
+
 export async function POST(request: NextRequest) {
   try {
     const formData = await request.formData();

@@ -1,0 +1,2001 @@
+﻿ID,Date,Product,Category,Price,Quantity,City,Payment Method
+1,2024-01-31,Tire,Automotive,303.39,20,Brasilia,Credit Card
+2,2023-02-08,Desk,Furniture,384.13,9,Belo Horizonte,Debit Card
+3,2023-02-13,Banana,Food,62.35,4,Rio de Janeiro,PIX
+4,2025-08-19,TV,Electronics,36.45,11,Porto Alegre,Cash
+5,2026-02-09,Vitamins,Health,146.59,2,Recife,PIX
+6,2026-03-17,Conditioner,Beauty,370.4,17,Rio de Janeiro,Cash
+7,2024-04-15,Cream,Beauty,57.33,16,Goiania,PIX
+8,2025-07-29,Pants,Clothing,256.05,7,Brasilia,Credit Card
+9,2025-07-18,Toothbrush,Beauty,246.44,10,Sao Paulo,Cash
+10,2024-06-18,Banana,Food,255.84,11,Sao Paulo,Debit Card
+11,2024-05-08,Shoes,Clothing,402.76,8,Fortaleza,Cash
+12,2023-08-16,Oil,Automotive,412.83,15,Belo Horizonte,Cash
+13,2025-06-05,Technical,Books,278.51,9,Belo Horizonte,Debit Card
+14,2025-05-28,Camera,Electronics,87.73,16,Fortaleza,Credit Card
+15,2023-06-07,Banana,Food,458.4,9,Rio de Janeiro,Debit Card
+16,2024-10-17,Volleyball,Sports,161.32,15,Porto Alegre,PIX
+17,2024-12-31,Mouthwash,Health,53.77,14,Sao Paulo,Debit Card
+18,2025-08-03,Technical,Books,480.16,6,Rio de Janeiro,Boleto
+19,2023-03-15,Soap,Beauty,324.49,17,Salvador,PIX
+20,2025-02-08,Pants,Clothing,263.33,6,Salvador,Credit Card
+21,2024-05-21,Meat,Food,443.97,1,Rio de Janeiro,Credit Card
+22,2025-09-30,Makeup,Beauty,24.66,5,Sao Paulo,Cash
+23,2023-11-24,Toothbrush,Beauty,290.99,9,Curitiba,Cash
+24,2024-03-23,History,Books,484.73,4,Belo Horizonte,Credit Card
+25,2024-08-06,T-Shirt,Clothing,411.82,15,Recife,Boleto
+26,2023-02-19,Makeup,Beauty,403.19,3,Sao Paulo,PIX
+27,2024-02-24,Technical,Books,363.95,16,Fortaleza,Cash
+28,2025-10-02,Filter,Automotive,189.83,13,Goiania,Debit Card
+29,2025-04-15,Cheese,Food,45.83,15,Sao Paulo,Credit Card
+30,2025-05-07,Rice,Food,438.51,17,Goiania,Boleto
+31,2023-12-14,Shelf,Furniture,240.24,4,Porto Alegre,PIX
+32,2023-05-22,Bread,Food,78.01,17,Curitiba,Boleto
+33,2026-02-12,Shampoo,Beauty,332.94,9,Rio de Janeiro,Credit Card
+34,2025-04-08,Table,Furniture,430.42,12,Curitiba,Credit Card
+35,2025-03-29,Shelf,Furniture,332.79,16,Salvador,Debit Card
+36,2023-02-02,Bicycle,Sports,442.15,5,Brasilia,PIX
+37,2025-03-03,Makeup,Beauty,176.51,13,Goiania,Cash
+38,2025-06-05,Tablet,Electronics,305.03,2,Fortaleza,Cash
+39,2023-06-05,Tablet,Electronics,261.75,18,Goiania,Credit Card
+40,2023-11-20,Perfume,Beauty,140.62,18,Salvador,Credit Card
+41,2025-07-31,Toothbrush,Beauty,265.8,17,Porto Alegre,PIX
+42,2024-04-03,Lego,Toys,42.61,2,Porto Alegre,Debit Card
+43,2023-11-12,Vitamins,Health,428.78,17,Recife,Cash
+44,2025-06-27,Soccer Ball,Sports,467,6,Rio de Janeiro,PIX
+45,2023-05-09,Keyboard,Electronics,38.27,10,Goiania,Boleto
+46,2026-01-11,Brush,Automotive,483.54,18,Salvador,Credit Card
+47,2024-01-13,Perfume,Beauty,222.28,7,Belo Horizonte,Cash
+48,2023-02-27,Banana,Food,371.78,5,Goiania,Credit Card
+49,2023-02-24,Volleyball,Sports,321.69,18,Porto Alegre,Boleto
+50,2024-01-07,Table,Furniture,416.2,8,Goiania,Credit Card
+51,2023-10-07,Non-Fiction,Books,279.91,3,Belo Horizonte,PIX
+52,2023-07-03,Bread,Food,278,4,Salvador,Boleto
+53,2025-11-12,TV,Electronics,399.21,9,Fortaleza,Debit Card
+54,2025-06-24,Beans,Food,332.54,10,Curitiba,PIX
+55,2025-05-24,Bread,Food,459.22,3,Sao Paulo,Boleto
+56,2025-08-30,Paint,Automotive,259.23,11,Fortaleza,Debit Card
+57,2025-12-26,Non-Fiction,Books,236.69,4,Rio de Janeiro,Credit Card
+58,2023-07-05,Mouse,Electronics,152.85,1,Goiania,Cash
+59,2025-12-21,Vitamins,Health,48.45,16,Belo Horizonte,Cash
+60,2023-04-29,Non-Fiction,Books,136.77,16,Curitiba,Boleto
+61,2024-02-23,Sofa,Furniture,435.16,10,Curitiba,Cash
+62,2023-09-13,Cheese,Food,204.46,13,Salvador,Cash
+63,2025-04-19,Doll,Toys,455.46,7,Salvador,Cash
+64,2023-03-02,Oil,Automotive,183.99,15,Brasilia,Credit Card
+65,2025-10-24,Shelf,Furniture,475.25,1,Salvador,Cash
+66,2023-12-06,Children,Books,430.82,2,Goiania,Boleto
+67,2024-01-06,Toothpaste,Health,338.26,17,Curitiba,Cash
+68,2023-01-08,Chair,Furniture,20.57,15,Brasilia,Credit Card
+69,2026-02-01,Soccer Ball,Sports,134.51,4,Salvador,Debit Card
+70,2023-02-18,TV,Electronics,49.99,5,Recife,Boleto
+71,2023-12-02,Bandage,Health,203.92,9,Salvador,Credit Card
+72,2025-01-02,Shampoo,Beauty,33.82,12,Salvador,Boleto
+73,2026-03-17,Sofa,Furniture,24.35,4,Porto Alegre,Debit Card
+74,2024-05-19,Wardrobe,Furniture,65.42,5,Sao Paulo,Cash
+75,2025-02-11,Soccer Ball,Sports,223.03,18,Porto Alegre,Debit Card
+76,2024-10-08,Headphones,Electronics,450.82,1,Rio de Janeiro,PIX
+77,2026-06-06,History,Books,146.2,4,Goiania,Cash
+78,2025-05-11,Bicycle,Sports,472.97,14,Rio de Janeiro,Credit Card
+79,2023-03-20,Tire,Automotive,242,2,Sao Paulo,Cash
+80,2023-01-12,Shoes,Clothing,388.5,8,Recife,Credit Card
+81,2025-07-15,Tire,Automotive,495.32,7,Rio de Janeiro,Cash
+82,2025-06-08,Wardrobe,Furniture,131.28,17,Brasilia,Cash
+83,2023-04-13,Technical,Books,143.31,5,Rio de Janeiro,Boleto
+84,2023-03-07,Paint,Automotive,348.1,17,Rio de Janeiro,Debit Card
+85,2025-08-10,Smartphone,Electronics,406.65,20,Goiania,Cash
+86,2023-11-17,Pants,Clothing,121.61,7,Belo Horizonte,Cash
+87,2024-08-22,T-Shirt,Clothing,373.66,18,Fortaleza,Debit Card
+88,2025-03-21,Sofa,Furniture,371.9,2,Sao Paulo,Credit Card
+89,2024-05-29,Smartphone,Electronics,458.55,1,Brasilia,PIX
+90,2025-11-23,Sofa,Furniture,460.44,17,Recife,Boleto
+91,2025-08-01,T-Shirt,Clothing,322.92,11,Salvador,PIX
+92,2026-04-26,Children,Books,490.82,10,Goiania,Cash
+93,2023-04-05,Sneakers,Sports,243.04,14,Porto Alegre,Credit Card
+94,2023-07-07,Puzzle,Toys,168.1,11,Curitiba,PIX
+95,2023-02-09,Paint,Automotive,438.99,12,Fortaleza,PIX
+96,2025-08-22,Table,Furniture,259.39,8,Goiania,PIX
+97,2024-03-18,Painkiller,Health,269.05,1,Goiania,Debit Card
+98,2023-07-27,Perfume,Beauty,441.48,20,Salvador,Boleto
+99,2025-12-02,Desk,Furniture,103.22,2,Curitiba,Credit Card
+100,2023-07-21,Shelf,Furniture,261.48,8,Rio de Janeiro,Cash
+101,2023-10-20,Conditioner,Beauty,93.24,6,Recife,Cash
+102,2025-05-18,Jacket,Clothing,386.09,17,Sao Paulo,Debit Card
+103,2023-04-06,Rice,Food,365.71,18,Rio de Janeiro,PIX
+104,2024-01-01,Wardrobe,Furniture,251.49,14,Belo Horizonte,Credit Card
+105,2024-04-24,Doll,Toys,504.11,9,Salvador,PIX
+106,2024-08-02,Filter,Automotive,407.63,18,Recife,Debit Card
+107,2023-11-12,Mouse,Electronics,503.32,17,Recife,Boleto
+108,2025-05-22,Vitamins,Health,280.47,15,Recife,Credit Card
+109,2023-12-08,Pants,Clothing,253.11,10,Brasilia,PIX
+110,2024-09-22,Tire,Automotive,284.43,11,Goiania,Credit Card
+111,2025-04-10,Mouthwash,Health,307.73,18,Rio de Janeiro,Cash
+112,2026-05-09,Vitamins,Health,369.01,9,Fortaleza,Credit Card
+113,2026-04-14,Socks,Clothing,490.73,16,Belo Horizonte,Boleto
+114,2026-02-12,Milk,Food,134.53,14,Goiania,Debit Card
+115,2024-01-05,TV,Electronics,455.65,2,Rio de Janeiro,PIX
+116,2023-08-07,Filter,Automotive,479.7,11,Goiania,Credit Card
+117,2025-02-07,Puzzle,Toys,64.77,9,Porto Alegre,Debit Card
+118,2023-02-26,Banana,Food,197.6,12,Recife,Debit Card
+119,2026-04-05,Camera,Electronics,402.79,16,Sao Paulo,Cash
+120,2024-05-04,Soap,Beauty,127,11,Recife,Debit Card
+121,2023-12-20,Beans,Food,174.73,5,Salvador,Debit Card
+122,2025-02-01,Thermometer,Health,298.95,16,Fortaleza,Debit Card
+123,2025-10-08,Tablet,Electronics,101.16,15,Sao Paulo,Boleto
+124,2024-06-04,Vitamins,Health,67.77,17,Porto Alegre,Boleto
+125,2025-12-12,Skateboard,Sports,291.03,18,Brasilia,Cash
+126,2025-09-21,Video Game,Toys,242.37,7,Curitiba,Debit Card
+127,2023-08-08,Action Figure,Toys,206.92,17,Recife,Credit Card
+128,2025-09-01,Romance,Books,492.4,4,Recife,PIX
+129,2023-06-10,Bandage,Health,412.32,5,Sao Paulo,PIX
+130,2023-06-03,Table,Furniture,352.49,4,Salvador,Cash
+131,2023-01-29,Oil,Automotive,26.16,13,Belo Horizonte,Debit Card
+132,2026-02-15,Cream,Beauty,388.43,2,Curitiba,Credit Card
+133,2023-04-24,Bread,Food,135.26,8,Curitiba,PIX
+134,2023-03-05,Children,Books,144.84,11,Brasilia,Debit Card
+135,2024-04-07,Rice,Food,474.77,6,Rio de Janeiro,PIX
+136,2023-09-13,Toothpaste,Health,305.22,10,Salvador,Cash
+137,2024-10-03,Shampoo,Beauty,107.43,13,Porto Alegre,Boleto
+138,2025-04-10,Shoes,Clothing,93.72,19,Salvador,Debit Card
+139,2026-06-03,Video Game,Toys,357.26,7,Fortaleza,PIX
+140,2025-03-10,Soccer Ball,Sports,20.83,17,Belo Horizonte,Boleto
+141,2025-03-02,Lego,Toys,210.79,20,Rio de Janeiro,Boleto
+142,2025-05-06,Tablet,Electronics,494.07,15,Brasilia,Debit Card
+143,2025-01-22,Conditioner,Beauty,352.5,13,Rio de Janeiro,PIX
+144,2024-01-25,Ball,Toys,162.95,10,Brasilia,Credit Card
+145,2023-07-27,TV,Electronics,38.09,6,Brasilia,Credit Card
+146,2024-01-02,Shampoo,Beauty,150.05,8,Fortaleza,Credit Card
+147,2025-04-01,Banana,Food,484.69,3,Porto Alegre,Debit Card
+148,2023-08-14,Ball,Toys,372.83,11,Rio de Janeiro,PIX
+149,2023-03-01,Brush,Automotive,86.13,11,Fortaleza,Boleto
+150,2024-06-29,Chair,Furniture,165.17,20,Brasilia,Debit Card
+151,2025-10-20,Keyboard,Electronics,141.45,2,Belo Horizonte,Credit Card
+152,2024-05-07,Ball,Toys,270.72,14,Fortaleza,Debit Card
+153,2026-05-18,Technical,Books,412.99,3,Recife,Cash
+154,2024-10-27,Notebook,Electronics,217.01,18,Sao Paulo,PIX
+155,2024-07-15,Tablet,Electronics,460.04,13,Belo Horizonte,Debit Card
+156,2024-06-26,Meat,Food,206.08,17,Salvador,PIX
+157,2024-08-01,Children,Books,169.23,2,Porto Alegre,Boleto
+158,2023-10-04,Oil,Automotive,57.96,20,Curitiba,Boleto
+159,2023-09-01,Thermometer,Health,452.18,16,Porto Alegre,Boleto
+160,2024-07-22,Ball,Toys,226.01,12,Belo Horizonte,Cash
+161,2023-01-11,Skateboard,Sports,488.22,15,Recife,Boleto
+162,2024-03-25,Fiction,Books,389.28,5,Sao Paulo,Credit Card
+163,2025-04-13,Lego,Toys,289.27,17,Sao Paulo,Debit Card
+164,2025-07-13,Wardrobe,Furniture,300.86,16,Salvador,Boleto
+165,2025-12-30,Brush,Automotive,309.88,14,Sao Paulo,Boleto
+166,2023-10-07,Brush,Automotive,142.9,4,Fortaleza,PIX
+167,2023-12-23,Tablet,Electronics,455.68,14,Salvador,PIX
+168,2023-10-05,Bulb,Automotive,365.53,13,Belo Horizonte,Debit Card
+169,2023-10-12,Bed,Furniture,467.41,8,Fortaleza,Cash
+170,2025-01-27,Dress,Clothing,301.19,6,Goiania,Credit Card
+171,2026-03-21,Cheese,Food,379.63,11,Belo Horizonte,Debit Card
+172,2024-03-27,Bandage,Health,27.71,9,Fortaleza,Credit Card
+173,2025-11-15,Car,Toys,290.06,20,Fortaleza,Debit Card
+174,2023-03-10,Video Game,Toys,21.57,4,Recife,Credit Card
+175,2024-03-03,Filter,Automotive,391.06,7,Salvador,PIX
+176,2026-01-09,Volleyball,Sports,294.41,7,Porto Alegre,PIX
+177,2025-04-26,T-Shirt,Clothing,94.37,13,Salvador,Boleto
+178,2024-04-25,TV,Electronics,36.9,2,Recife,Debit Card
+179,2023-04-08,Skateboard,Sports,16.5,20,Recife,Boleto
+180,2026-04-27,Brush,Automotive,279.78,11,Porto Alegre,Debit Card
+181,2026-05-06,Shoes,Clothing,493.71,11,Curitiba,PIX
+182,2024-05-25,Fiction,Books,275.69,15,Sao Paulo,Credit Card
+183,2023-11-07,Bread,Food,452.96,2,Porto Alegre,Cash
+184,2026-02-25,Milk,Food,184.89,10,Curitiba,Credit Card
+185,2024-04-08,Thermometer,Health,473.22,16,Rio de Janeiro,Boleto
+186,2025-05-21,Banana,Food,419.03,9,Goiania,Cash
+187,2024-10-30,TV,Electronics,265.98,4,Brasilia,Boleto
+188,2024-10-11,Action Figure,Toys,80.91,2,Salvador,Debit Card
+189,2024-12-27,Bicycle,Sports,92.19,17,Salvador,Debit Card
+190,2026-03-25,Toothbrush,Beauty,322.41,3,Goiania,PIX
+191,2024-09-05,Puzzle,Toys,250.58,15,Salvador,Cash
+192,2023-10-09,Mouse,Electronics,347.75,5,Porto Alegre,PIX
+193,2024-07-20,Sneakers,Sports,63.58,14,Goiania,Debit Card
+194,2026-05-19,Non-Fiction,Books,460.09,18,Belo Horizonte,Debit Card
+195,2024-10-13,Bandage,Health,249.17,2,Porto Alegre,PIX
+196,2025-06-29,Keyboard,Electronics,122.28,6,Recife,Debit Card
+197,2025-07-01,Painkiller,Health,220.26,11,Salvador,Cash
+198,2024-08-04,History,Books,151.54,11,Sao Paulo,PIX
+199,2023-06-29,Skateboard,Sports,397.3,13,Salvador,Boleto
+200,2025-07-01,Lego,Toys,104.28,4,Porto Alegre,Cash
+201,2025-01-25,TV,Electronics,445.53,16,Rio de Janeiro,Boleto
+202,2023-10-20,Filter,Automotive,71.29,13,Salvador,PIX
+203,2023-07-18,Makeup,Beauty,231.59,1,Fortaleza,Credit Card
+204,2024-11-29,Table,Furniture,455.09,5,Fortaleza,Credit Card
+205,2025-12-17,Desk,Furniture,373.79,6,Goiania,PIX
+206,2026-03-21,Oil,Automotive,427.7,5,Recife,Debit Card
+207,2025-10-18,Children,Books,41.64,2,Sao Paulo,Boleto
+208,2025-05-01,Chair,Furniture,427.84,20,Porto Alegre,Debit Card
+209,2024-09-30,Soccer Ball,Sports,338.81,1,Belo Horizonte,Boleto
+210,2025-10-15,Bread,Food,404.36,18,Goiania,Credit Card
+211,2025-06-05,Shoes,Clothing,483.84,4,Belo Horizonte,Credit Card
+212,2025-04-26,Makeup,Beauty,206.09,8,Curitiba,Boleto
+213,2023-06-05,Shoes,Clothing,341.81,19,Curitiba,Cash
+214,2023-12-12,Soccer Ball,Sports,142.06,4,Sao Paulo,PIX
+215,2025-09-03,Perfume,Beauty,66.84,17,Goiania,Debit Card
+216,2023-09-12,Action Figure,Toys,430.9,8,Sao Paulo,Debit Card
+217,2023-05-23,Volleyball,Sports,134.9,17,Goiania,Credit Card
+218,2025-04-02,Oil,Automotive,495.67,18,Sao Paulo,Boleto
+219,2025-11-19,Chair,Furniture,125.6,16,Salvador,Cash
+220,2023-02-14,Puzzle,Toys,128.5,14,Salvador,Boleto
+221,2023-09-05,Bulb,Automotive,180.18,14,Porto Alegre,PIX
+222,2023-04-15,Pants,Clothing,425.64,3,Sao Paulo,Debit Card
+223,2026-03-28,Action Figure,Toys,267.96,1,Recife,Debit Card
+224,2025-05-21,Headphones,Electronics,174.59,19,Curitiba,Debit Card
+225,2024-02-11,Bread,Food,93.07,9,Goiania,Cash
+226,2025-02-28,Meat,Food,305.28,4,Salvador,PIX
+227,2025-02-17,Bread,Food,31.45,15,Goiania,Debit Card
+228,2024-09-29,Shampoo,Beauty,260.58,10,Belo Horizonte,PIX
+229,2023-10-29,Vitamins,Health,403.91,18,Goiania,Boleto
+230,2025-02-05,Meat,Food,206.14,15,Curitiba,PIX
+231,2023-09-26,Dress,Clothing,455.77,4,Brasilia,Credit Card
+232,2025-12-27,Beans,Food,374.25,4,Salvador,Credit Card
+233,2025-08-31,Shoes,Clothing,471.57,8,Rio de Janeiro,Cash
+234,2024-02-13,Table,Furniture,353.61,1,Rio de Janeiro,Debit Card
+235,2024-03-12,Puzzle,Toys,28.6,20,Curitiba,Boleto
+236,2023-10-16,Brush,Automotive,226.5,15,Rio de Janeiro,PIX
+237,2025-01-11,Action Figure,Toys,444.74,3,Brasilia,Boleto
+238,2024-02-23,Toothbrush,Beauty,397.7,6,Salvador,Boleto
+239,2024-12-07,Filter,Automotive,41.64,4,Porto Alegre,Debit Card
+240,2025-02-20,TV,Electronics,125.61,13,Sao Paulo,PIX
+241,2023-06-20,Sofa,Furniture,469.67,7,Curitiba,Boleto
+242,2023-06-12,Banana,Food,143.27,4,Belo Horizonte,Credit Card
+243,2024-04-26,Toothpaste,Health,223.06,7,Fortaleza,Cash
+244,2024-04-02,Shampoo,Beauty,61.08,9,Curitiba,Debit Card
+245,2023-12-13,Notebook,Electronics,504.57,16,Salvador,Boleto
+246,2023-05-27,Ball,Toys,128.47,19,Salvador,Boleto
+247,2025-09-16,Desk,Furniture,59.05,12,Curitiba,Credit Card
+248,2026-05-16,Socks,Clothing,261.73,19,Recife,Boleto
+249,2025-02-23,Bed,Furniture,88,4,Fortaleza,Boleto
+250,2025-01-03,Conditioner,Beauty,116.86,12,Fortaleza,Credit Card
+251,2023-03-06,Puzzle,Toys,206.23,14,Fortaleza,Credit Card
+252,2024-02-04,Non-Fiction,Books,309.64,9,Salvador,Boleto
+253,2025-09-23,Perfume,Beauty,36.96,10,Curitiba,PIX
+254,2024-12-27,Painkiller,Health,126.47,5,Fortaleza,Cash
+255,2024-09-11,Mouthwash,Health,453.34,16,Brasilia,PIX
+256,2024-08-11,Ball,Toys,266.34,18,Brasilia,Credit Card
+257,2024-05-29,Dress,Clothing,402.86,3,Curitiba,Boleto
+258,2025-11-05,Mouse,Electronics,467.6,20,Salvador,Boleto
+259,2023-07-23,Brush,Automotive,334.43,14,Salvador,Debit Card
+260,2023-03-31,Desk,Furniture,487.76,12,Salvador,Boleto
+261,2024-10-16,Apple,Food,479.42,17,Rio de Janeiro,Debit Card
+262,2025-07-31,Vitamins,Health,319.28,15,Porto Alegre,Debit Card
+263,2024-12-05,Smartphone,Electronics,190.46,9,Brasilia,Debit Card
+264,2025-03-10,Toothpaste,Health,12.2,17,Goiania,Cash
+265,2024-08-12,Banana,Food,327.92,4,Rio de Janeiro,PIX
+266,2024-01-30,Skateboard,Sports,391.1,14,Sao Paulo,Boleto
+267,2023-03-28,Painkiller,Health,297.14,20,Sao Paulo,PIX
+268,2025-11-20,Children,Books,454.14,20,Sao Paulo,Boleto
+269,2026-02-24,Smartphone,Electronics,339.11,5,Recife,Credit Card
+270,2024-03-08,Banana,Food,167.29,2,Sao Paulo,PIX
+271,2025-04-01,Brush,Automotive,305.12,2,Sao Paulo,Debit Card
+272,2023-10-05,Bulb,Automotive,53.46,6,Belo Horizonte,Debit Card
+273,2024-09-18,T-Shirt,Clothing,274.5,17,Porto Alegre,Debit Card
+274,2026-04-12,Mouthwash,Health,26.43,16,Recife,Boleto
+275,2024-07-11,Sneakers,Sports,31.02,14,Brasilia,Credit Card
+276,2024-09-11,Volleyball,Sports,215.09,16,Sao Paulo,PIX
+277,2025-07-18,Chair,Furniture,134.37,2,Belo Horizonte,Cash
+278,2025-06-09,Bicycle,Sports,491.86,15,Curitiba,Debit Card
+279,2025-11-19,Socks,Clothing,231.45,14,Salvador,PIX
+280,2023-01-28,Romance,Books,81.88,19,Porto Alegre,Debit Card
+281,2023-03-01,Self-Help,Books,274.78,10,Salvador,Boleto
+282,2023-12-25,Self-Help,Books,10.73,16,Goiania,PIX
+283,2024-03-14,Conditioner,Beauty,238.38,17,Salvador,Cash
+284,2026-01-29,Soccer Ball,Sports,294.05,4,Fortaleza,PIX
+285,2025-07-17,Painkiller,Health,411.1,18,Rio de Janeiro,Cash
+286,2025-06-23,Bed,Furniture,368.25,20,Goiania,Cash
+287,2023-04-06,Table,Furniture,373.47,1,Curitiba,Boleto
+288,2025-05-11,Headphones,Electronics,182.64,2,Goiania,Debit Card
+289,2023-01-09,Self-Help,Books,109.43,12,Recife,Boleto
+290,2023-04-09,Cap,Clothing,170.99,15,Brasilia,PIX
+291,2024-06-25,T-Shirt,Clothing,151.54,19,Belo Horizonte,Debit Card
+292,2024-04-08,Cap,Clothing,58.93,3,Curitiba,Debit Card
+293,2026-05-30,Cheese,Food,199.81,15,Fortaleza,Cash
+294,2024-07-14,TV,Electronics,274.17,19,Salvador,Boleto
+295,2024-10-03,Beans,Food,195.82,13,Rio de Janeiro,Debit Card
+296,2023-01-22,Doll,Toys,161.99,10,Goiania,PIX
+297,2024-12-05,Volleyball,Sports,498.25,10,Sao Paulo,PIX
+298,2025-03-30,Bandage,Health,386.5,19,Brasilia,Boleto
+299,2023-11-30,Bed,Furniture,133.56,7,Recife,PIX
+300,2026-04-16,TV,Electronics,426.01,13,Fortaleza,Credit Card
+301,2023-11-20,Romance,Books,491.25,15,Brasilia,PIX
+302,2025-12-01,Thermometer,Health,246.36,10,Curitiba,Cash
+303,2025-06-07,Meat,Food,317.83,3,Goiania,Credit Card
+304,2023-08-29,Apple,Food,256.79,1,Brasilia,Cash
+305,2023-02-16,Bed,Furniture,376.98,1,Fortaleza,PIX
+306,2024-02-14,Shelf,Furniture,233.51,14,Goiania,Cash
+307,2024-06-27,Doll,Toys,337.42,16,Sao Paulo,Boleto
+308,2023-04-24,Cream,Beauty,428.34,20,Fortaleza,Debit Card
+309,2024-05-08,Cap,Clothing,286.98,2,Rio de Janeiro,Debit Card
+310,2023-02-16,Apple,Food,434.52,3,Recife,Credit Card
+311,2023-08-12,Vitamins,Health,378.15,13,Rio de Janeiro,Credit Card
+312,2024-06-25,T-Shirt,Clothing,50.47,1,Belo Horizonte,Boleto
+313,2025-08-27,Perfume,Beauty,480.66,2,Recife,PIX
+314,2025-03-13,Smartphone,Electronics,18.38,4,Salvador,Boleto
+315,2024-02-16,Skateboard,Sports,377.72,14,Rio de Janeiro,Debit Card
+316,2026-02-07,Car,Toys,208.12,13,Salvador,Boleto
+317,2023-07-22,Children,Books,166.64,5,Recife,Credit Card
+318,2025-09-03,Tire,Automotive,242.92,13,Rio de Janeiro,PIX
+319,2023-05-21,Bicycle,Sports,228.3,14,Recife,Boleto
+320,2023-04-04,Shampoo,Beauty,186.22,20,Recife,Boleto
+321,2024-09-22,Cream,Beauty,411.59,3,Salvador,Debit Card
+322,2026-04-15,Table,Furniture,407.82,15,Brasilia,PIX
+323,2023-05-05,TV,Electronics,426.36,20,Salvador,PIX
+324,2025-11-13,Sneakers,Sports,263.27,5,Porto Alegre,Cash
+325,2024-09-10,Tire,Automotive,318.46,13,Fortaleza,Debit Card
+326,2024-05-21,Wardrobe,Furniture,31.26,6,Porto Alegre,Credit Card
+327,2023-05-13,Video Game,Toys,100.9,13,Recife,Credit Card
+328,2024-11-06,Self-Help,Books,403.83,11,Recife,Credit Card
+329,2025-05-17,Sofa,Furniture,442.03,13,Belo Horizonte,PIX
+330,2023-09-09,Doll,Toys,278.83,12,Fortaleza,Boleto
+331,2023-07-02,Filter,Automotive,40.75,20,Recife,PIX
+332,2025-01-09,Thermometer,Health,34.21,14,Salvador,Debit Card
+333,2023-06-15,Soap,Beauty,389.25,11,Rio de Janeiro,Boleto
+334,2024-06-16,Dress,Clothing,373.78,8,Recife,Boleto
+335,2026-02-23,Gym Wear,Sports,43.85,15,Salvador,Boleto
+336,2025-11-28,Tablet,Electronics,85.47,10,Recife,Debit Card
+337,2023-06-12,Gym Wear,Sports,195.25,19,Fortaleza,PIX
+338,2024-07-15,Cheese,Food,478.13,7,Porto Alegre,PIX
+339,2023-09-09,History,Books,429.47,13,Salvador,Credit Card
+340,2023-09-07,Headphones,Electronics,448.11,5,Rio de Janeiro,Cash
+341,2025-12-22,Pants,Clothing,334.42,2,Goiania,Cash
+342,2024-03-25,Brush,Automotive,448.74,8,Fortaleza,Debit Card
+343,2026-03-04,Shampoo,Beauty,288.83,12,Goiania,Credit Card
+344,2026-02-14,Dress,Clothing,123.58,20,Belo Horizonte,Boleto
+345,2024-06-03,Doll,Toys,256.74,5,Salvador,PIX
+346,2024-05-24,Paint,Automotive,29.8,20,Rio de Janeiro,Cash
+347,2024-01-30,Technical,Books,324.2,9,Brasilia,PIX
+348,2024-10-18,Wardrobe,Furniture,269.13,10,Recife,Debit Card
+349,2024-02-13,Gym Wear,Sports,498.8,2,Recife,Credit Card
+350,2025-08-13,Desk,Furniture,243.75,9,Goiania,Credit Card
+351,2024-11-04,Fiction,Books,344.39,18,Goiania,Cash
+352,2025-12-16,Cap,Clothing,404.16,10,Belo Horizonte,Boleto
+353,2024-07-14,Bicycle,Sports,419.97,17,Salvador,Debit Card
+354,2023-06-21,Bed,Furniture,121.28,18,Salvador,Cash
+355,2026-04-03,Meat,Food,217.62,2,Curitiba,Credit Card
+356,2023-05-22,Chair,Furniture,35.8,15,Rio de Janeiro,Cash
+357,2024-04-23,Cream,Beauty,328.31,6,Fortaleza,Cash
+358,2025-12-31,Oil,Automotive,232.65,19,Sao Paulo,Debit Card
+359,2026-04-04,Oil,Automotive,30,16,Fortaleza,PIX
+360,2025-06-19,Video Game,Toys,111.66,17,Porto Alegre,PIX
+361,2023-07-15,Filter,Automotive,189.6,13,Goiania,Credit Card
+362,2024-01-12,Soap,Beauty,176.19,3,Fortaleza,Boleto
+363,2023-09-15,Filter,Automotive,68.58,9,Goiania,Cash
+364,2026-01-09,Shelf,Furniture,250.12,7,Sao Paulo,PIX
+365,2025-05-16,Mouthwash,Health,318.51,20,Recife,Boleto
+366,2024-06-26,Gym Wear,Sports,262.78,20,Fortaleza,PIX
+367,2025-01-31,Pants,Clothing,446.94,17,Fortaleza,Boleto
+368,2024-06-07,Shoes,Clothing,461.89,14,Goiania,Credit Card
+369,2026-06-06,Action Figure,Toys,102.56,1,Curitiba,Credit Card
+370,2023-09-07,Camera,Electronics,192.02,3,Rio de Janeiro,Credit Card
+371,2024-06-19,Puzzle,Toys,253.24,12,Fortaleza,PIX
+372,2023-07-08,Soap,Beauty,165.3,2,Porto Alegre,Cash
+373,2023-11-05,Socks,Clothing,202.48,16,Porto Alegre,Boleto
+374,2023-04-26,Skateboard,Sports,188.2,15,Sao Paulo,Boleto
+375,2025-10-21,Socks,Clothing,354.43,14,Fortaleza,PIX
+376,2026-02-06,Apple,Food,91.06,3,Goiania,Credit Card
+377,2023-04-03,Apple,Food,286.7,19,Fortaleza,Cash
+378,2024-05-09,Smartphone,Electronics,298.94,15,Goiania,PIX
+379,2024-05-26,Oil,Automotive,14.47,2,Salvador,Debit Card
+380,2024-02-16,T-Shirt,Clothing,184.08,10,Belo Horizonte,Cash
+381,2024-06-09,Filter,Automotive,64.41,9,Porto Alegre,PIX
+382,2023-09-18,Mouse,Electronics,172.77,13,Fortaleza,Cash
+383,2023-09-09,Fiction,Books,421.39,1,Sao Paulo,PIX
+384,2024-08-13,Chair,Furniture,350.07,6,Fortaleza,Boleto
+385,2024-12-27,Beans,Food,382.8,20,Goiania,Credit Card
+386,2023-04-11,Cap,Clothing,144.17,20,Curitiba,PIX
+387,2024-10-09,Thermometer,Health,335.6,8,Recife,Cash
+388,2024-09-02,Action Figure,Toys,420.56,18,Porto Alegre,Debit Card
+389,2023-12-08,Bicycle,Sports,484.25,18,Fortaleza,Cash
+390,2023-09-03,Shelf,Furniture,324.55,10,Porto Alegre,PIX
+391,2023-08-28,Table,Furniture,486.02,2,Rio de Janeiro,Credit Card
+392,2025-06-26,Action Figure,Toys,390.14,9,Brasilia,Cash
+393,2023-09-09,Cream,Beauty,13.76,12,Porto Alegre,Cash
+394,2023-06-04,Sneakers,Sports,199.79,1,Porto Alegre,Credit Card
+395,2026-01-22,Soap,Beauty,393.39,6,Curitiba,PIX
+396,2025-04-30,Cap,Clothing,235.37,6,Belo Horizonte,Debit Card
+397,2023-01-08,Action Figure,Toys,493.28,3,Goiania,Debit Card
+398,2023-05-22,Tablet,Electronics,54.33,3,Porto Alegre,Credit Card
+399,2025-02-16,Doll,Toys,123.96,19,Belo Horizonte,Debit Card
+400,2023-07-01,Cheese,Food,293.38,8,Rio de Janeiro,PIX
+401,2024-03-03,Tire,Automotive,28.3,16,Goiania,Debit Card
+402,2025-06-07,Banana,Food,183.45,8,Fortaleza,Debit Card
+403,2026-05-28,TV,Electronics,484.14,17,Sao Paulo,Boleto
+404,2025-02-11,Bicycle,Sports,474.88,17,Salvador,Cash
+405,2023-09-20,Desk,Furniture,452.23,5,Belo Horizonte,Cash
+406,2026-05-04,Mouthwash,Health,398.51,1,Recife,Boleto
+407,2023-10-29,Doll,Toys,152.46,15,Porto Alegre,PIX
+408,2026-06-13,Wardrobe,Furniture,332.04,6,Curitiba,Cash
+409,2024-06-24,Tablet,Electronics,167.33,8,Curitiba,PIX
+410,2026-04-05,Children,Books,223.29,17,Rio de Janeiro,Cash
+411,2023-08-19,Romance,Books,323.03,5,Sao Paulo,Debit Card
+412,2024-01-04,Makeup,Beauty,439.77,5,Porto Alegre,Debit Card
+413,2023-07-02,Toothpaste,Health,424.47,3,Sao Paulo,Debit Card
+414,2023-04-12,Pants,Clothing,327.66,6,Belo Horizonte,Credit Card
+415,2025-01-29,Headphones,Electronics,282.29,9,Salvador,Boleto
+416,2025-03-23,Bread,Food,467.21,11,Sao Paulo,Debit Card
+417,2024-02-22,TV,Electronics,138.04,17,Goiania,Debit Card
+418,2023-01-10,Soap,Beauty,416.64,3,Salvador,Boleto
+419,2023-06-24,Self-Help,Books,441.18,8,Rio de Janeiro,Cash
+420,2024-10-24,Shoes,Clothing,196.61,12,Brasilia,PIX
+421,2025-12-29,Banana,Food,73.58,2,Rio de Janeiro,PIX
+422,2023-11-09,Ball,Toys,464.74,16,Belo Horizonte,PIX
+423,2023-10-10,Cream,Beauty,197.8,18,Rio de Janeiro,Cash
+424,2023-11-01,Video Game,Toys,119.03,9,Belo Horizonte,Cash
+425,2024-03-14,Lego,Toys,283.63,14,Fortaleza,Cash
+426,2023-11-03,Thermometer,Health,395.09,13,Sao Paulo,Credit Card
+427,2024-11-03,Toothpaste,Health,245.66,19,Rio de Janeiro,Boleto
+428,2025-04-04,Camera,Electronics,242.9,15,Fortaleza,Credit Card
+429,2026-03-31,Doll,Toys,388.25,1,Curitiba,Credit Card
+430,2024-05-28,Paint,Automotive,503.58,16,Sao Paulo,Debit Card
+431,2024-12-03,Smartphone,Electronics,409.46,18,Goiania,Cash
+432,2024-05-25,Socks,Clothing,333.31,5,Recife,PIX
+433,2024-05-01,Rice,Food,494.42,10,Goiania,Debit Card
+434,2023-11-19,Oil,Automotive,470.27,14,Curitiba,Boleto
+435,2024-06-25,Sofa,Furniture,331.55,8,Belo Horizonte,Credit Card
+436,2025-07-16,Tire,Automotive,424.39,7,Sao Paulo,Cash
+437,2026-01-01,Milk,Food,219.05,8,Sao Paulo,Cash
+438,2024-11-27,Bandage,Health,208.56,8,Sao Paulo,Credit Card
+439,2023-11-11,Wardrobe,Furniture,375.56,14,Goiania,Boleto
+440,2023-11-21,Vitamins,Health,501.43,4,Curitiba,Cash
+441,2024-01-25,Thermometer,Health,212.25,15,Porto Alegre,PIX
+442,2023-03-22,Pants,Clothing,100.21,3,Goiania,Boleto
+443,2026-03-07,Bed,Furniture,233.25,18,Brasilia,Debit Card
+444,2023-04-11,Toothpaste,Health,146.93,15,Brasilia,Debit Card
+445,2026-03-05,Smartphone,Electronics,310.48,3,Porto Alegre,Credit Card
+446,2023-12-20,Thermometer,Health,382.64,9,Salvador,Debit Card
+447,2024-05-06,Non-Fiction,Books,363.02,2,Belo Horizonte,Debit Card
+448,2025-05-31,Keyboard,Electronics,108.17,6,Fortaleza,Cash
+449,2024-02-03,Beans,Food,232.74,15,Recife,Debit Card
+450,2025-05-10,Tire,Automotive,312.32,7,Rio de Janeiro,Boleto
+451,2025-07-22,Technical,Books,169.35,4,Porto Alegre,Cash
+452,2023-01-21,Dress,Clothing,140.22,1,Fortaleza,Cash
+453,2024-03-17,Mouse,Electronics,508.24,19,Sao Paulo,Boleto
+454,2023-10-27,TV,Electronics,109.6,2,Rio de Janeiro,Credit Card
+455,2023-02-20,TV,Electronics,353.53,16,Curitiba,PIX
+456,2026-01-25,Cream,Beauty,306.54,9,Goiania,Boleto
+457,2025-12-27,Cheese,Food,181.05,18,Curitiba,Cash
+458,2026-04-11,Bicycle,Sports,189.19,19,Rio de Janeiro,Debit Card
+459,2023-07-23,Sneakers,Sports,470.26,12,Rio de Janeiro,Boleto
+460,2023-01-07,Cheese,Food,446.25,3,Rio de Janeiro,PIX
+461,2025-11-04,Non-Fiction,Books,128.76,8,Belo Horizonte,PIX
+462,2024-05-25,Makeup,Beauty,20.26,18,Goiania,Boleto
+463,2025-07-05,Sofa,Furniture,415.53,9,Salvador,Debit Card
+464,2025-05-12,Desk,Furniture,133.14,19,Recife,PIX
+465,2024-01-13,Pants,Clothing,426.22,3,Salvador,Debit Card
+466,2025-07-26,Toothpaste,Health,72.79,6,Salvador,Cash
+467,2025-06-21,Soccer Ball,Sports,462.21,9,Fortaleza,Cash
+468,2025-10-20,Ball,Toys,229.3,8,Porto Alegre,Debit Card
+469,2024-07-15,Bandage,Health,398.54,10,Curitiba,Boleto
+470,2025-04-28,Thermometer,Health,112.08,17,Sao Paulo,Cash
+471,2025-07-21,Cheese,Food,128.51,13,Salvador,Credit Card
+472,2024-09-21,Non-Fiction,Books,226.8,14,Fortaleza,Credit Card
+473,2024-08-24,Cap,Clothing,406.32,8,Goiania,PIX
+474,2025-10-23,Paint,Automotive,253.91,7,Belo Horizonte,Credit Card
+475,2026-06-08,Painkiller,Health,447.91,20,Rio de Janeiro,PIX
+476,2025-11-11,Video Game,Toys,309.69,6,Goiania,Credit Card
+477,2023-02-18,Conditioner,Beauty,46.63,7,Salvador,PIX
+478,2025-10-25,Video Game,Toys,189.97,7,Rio de Janeiro,Cash
+479,2023-05-25,Car,Toys,222.94,12,Goiania,PIX
+480,2026-01-09,Toothpaste,Health,370.25,14,Belo Horizonte,Boleto
+481,2025-10-22,Self-Help,Books,157.1,6,Rio de Janeiro,Credit Card
+482,2025-06-03,Oil,Automotive,224.96,6,Belo Horizonte,Credit Card
+483,2025-11-09,Vitamins,Health,67.29,11,Salvador,Debit Card
+484,2023-11-30,Rice,Food,342.67,18,Brasilia,Boleto
+485,2025-04-02,Toothpaste,Health,434.85,3,Fortaleza,Boleto
+486,2024-01-28,Wardrobe,Furniture,145.21,3,Fortaleza,Debit Card
+487,2025-08-28,Jacket,Clothing,408.85,19,Curitiba,Cash
+488,2023-07-08,Car,Toys,159.23,15,Sao Paulo,Boleto
+489,2025-04-21,Jacket,Clothing,292.9,2,Goiania,PIX
+490,2024-03-03,Camera,Electronics,497.77,13,Curitiba,Credit Card
+491,2025-03-29,Brush,Automotive,59.47,7,Recife,PIX
+492,2023-03-28,Camera,Electronics,431.67,11,Sao Paulo,Credit Card
+493,2023-10-19,Lego,Toys,226.38,11,Rio de Janeiro,Credit Card
+494,2024-02-07,Tablet,Electronics,365.2,15,Belo Horizonte,Credit Card
+495,2024-09-03,Bandage,Health,227.64,7,Recife,Cash
+496,2023-12-24,Car,Toys,478.02,12,Goiania,Boleto
+497,2026-03-25,Thermometer,Health,361.22,2,Fortaleza,Credit Card
+498,2025-04-17,Toothbrush,Beauty,241.93,17,Porto Alegre,Cash
+499,2025-11-22,Wardrobe,Furniture,165.19,5,Brasilia,PIX
+500,2023-02-10,Sneakers,Sports,56.61,7,Rio de Janeiro,Credit Card
+501,2025-12-12,Children,Books,308.38,5,Porto Alegre,Boleto
+502,2026-03-08,Car,Toys,25.11,9,Brasilia,Debit Card
+503,2025-06-01,Desk,Furniture,357.06,18,Rio de Janeiro,PIX
+504,2024-03-15,Conditioner,Beauty,354.39,6,Sao Paulo,Boleto
+505,2026-06-10,Paint,Automotive,73.3,6,Sao Paulo,Credit Card
+506,2025-08-18,Banana,Food,69.95,8,Sao Paulo,Cash
+507,2026-05-21,Bed,Furniture,191.67,11,Fortaleza,Boleto
+508,2024-01-08,Dress,Clothing,406.71,17,Salvador,Debit Card
+509,2026-05-08,Table,Furniture,16.71,10,Rio de Janeiro,Boleto
+510,2023-07-02,Rice,Food,64.22,19,Recife,PIX
+511,2026-03-03,Keyboard,Electronics,365.11,10,Recife,Debit Card
+512,2023-05-12,Jacket,Clothing,406.94,8,Brasilia,Boleto
+513,2026-01-04,Pants,Clothing,380.55,13,Rio de Janeiro,Credit Card
+514,2024-12-11,Paint,Automotive,123.23,2,Rio de Janeiro,Debit Card
+515,2025-08-21,Shampoo,Beauty,332.86,3,Brasilia,PIX
+516,2023-03-21,Self-Help,Books,311.35,16,Goiania,Boleto
+517,2025-05-14,Volleyball,Sports,185.05,19,Brasilia,Cash
+518,2024-01-29,Milk,Food,328.17,5,Goiania,Boleto
+519,2025-06-28,Sneakers,Sports,440.89,8,Porto Alegre,PIX
+520,2024-12-29,Painkiller,Health,382.38,10,Goiania,Boleto
+521,2025-02-21,Filter,Automotive,442.75,1,Curitiba,Credit Card
+522,2024-10-21,Wardrobe,Furniture,166.36,18,Porto Alegre,Debit Card
+523,2023-05-26,Oil,Automotive,380.06,20,Recife,Boleto
+524,2025-03-13,Car,Toys,249.63,15,Porto Alegre,Boleto
+525,2023-05-12,Non-Fiction,Books,223.74,20,Porto Alegre,Cash
+526,2026-05-11,Sneakers,Sports,487.35,20,Rio de Janeiro,Debit Card
+527,2023-05-10,Sofa,Furniture,277.08,14,Salvador,Credit Card
+528,2026-04-14,History,Books,377.2,6,Salvador,Debit Card
+529,2023-07-08,Bed,Furniture,479.95,4,Porto Alegre,Credit Card
+530,2025-12-27,Non-Fiction,Books,183.17,10,Porto Alegre,PIX
+531,2023-09-06,Meat,Food,183.05,19,Recife,PIX
+532,2025-02-15,History,Books,300.07,2,Goiania,Debit Card
+533,2023-04-15,Apple,Food,114.68,1,Fortaleza,Debit Card
+534,2023-09-28,Thermometer,Health,149.48,13,Recife,Credit Card
+535,2023-06-24,Technical,Books,474.87,12,Sao Paulo,PIX
+536,2025-10-05,Bicycle,Sports,504.62,17,Belo Horizonte,PIX
+537,2025-07-07,Mouse,Electronics,391.37,12,Recife,Debit Card
+538,2023-01-19,Technical,Books,168.66,5,Belo Horizonte,PIX
+539,2023-05-29,Vitamins,Health,108.43,17,Recife,Debit Card
+540,2025-03-19,Wardrobe,Furniture,426.18,6,Goiania,PIX
+541,2025-10-29,Socks,Clothing,431.18,11,Belo Horizonte,Cash
+542,2024-06-27,Shelf,Furniture,446.07,9,Salvador,Debit Card
+543,2023-09-03,Cheese,Food,335.58,15,Brasilia,Credit Card
+544,2023-03-14,Table,Furniture,463.22,10,Goiania,Boleto
+545,2024-11-21,Vitamins,Health,228.7,19,Recife,PIX
+546,2025-04-01,Conditioner,Beauty,63.28,12,Sao Paulo,Debit Card
+547,2024-02-04,History,Books,481.25,9,Sao Paulo,Cash
+548,2024-03-24,Technical,Books,222.27,9,Porto Alegre,Debit Card
+549,2023-08-30,Shelf,Furniture,377.61,9,Belo Horizonte,Boleto
+550,2023-05-31,Camera,Electronics,259.17,18,Curitiba,Cash
+551,2024-10-01,Makeup,Beauty,48.11,9,Goiania,Debit Card
+552,2025-04-26,Smartphone,Electronics,74.92,19,Goiania,Cash
+553,2025-11-05,Ball,Toys,76.1,4,Salvador,Cash
+554,2023-07-05,Perfume,Beauty,306.98,6,Salvador,Credit Card
+555,2023-05-13,Toothpaste,Health,314.37,8,Porto Alegre,Boleto
+556,2026-04-07,Wardrobe,Furniture,72.62,14,Fortaleza,PIX
+557,2025-05-21,Non-Fiction,Books,301.42,6,Sao Paulo,Debit Card
+558,2024-09-22,Wardrobe,Furniture,253.84,8,Goiania,Debit Card
+559,2026-02-03,Headphones,Electronics,244.25,10,Curitiba,Boleto
+560,2023-11-02,Volleyball,Sports,135.43,17,Goiania,Boleto
+561,2023-02-04,Bread,Food,119.28,8,Belo Horizonte,Debit Card
+562,2024-05-06,Volleyball,Sports,73.75,16,Porto Alegre,PIX
+563,2024-06-28,TV,Electronics,416.31,19,Fortaleza,Debit Card
+564,2026-05-20,Fiction,Books,354.47,1,Sao Paulo,Credit Card
+565,2023-07-24,Soccer Ball,Sports,417.82,16,Curitiba,Credit Card
+566,2024-07-31,Meat,Food,227.53,7,Recife,Boleto
+567,2025-09-04,Bicycle,Sports,110.95,14,Salvador,Debit Card
+568,2024-04-16,Brush,Automotive,254.08,6,Brasilia,PIX
+569,2023-02-10,Perfume,Beauty,188.42,15,Salvador,Credit Card
+570,2023-01-12,Toothpaste,Health,504.98,16,Brasilia,Credit Card
+571,2025-09-02,Socks,Clothing,441.55,1,Rio de Janeiro,Boleto
+572,2024-04-19,Skateboard,Sports,126.53,1,Rio de Janeiro,Boleto
+573,2025-09-01,Apple,Food,93.27,6,Goiania,Credit Card
+574,2024-07-09,Chair,Furniture,211.62,13,Rio de Janeiro,Credit Card
+575,2026-06-12,TV,Electronics,332.45,13,Goiania,PIX
+576,2023-07-15,Technical,Books,62.24,17,Salvador,Boleto
+577,2025-09-19,Volleyball,Sports,428.76,4,Brasilia,Cash
+578,2023-03-21,Sneakers,Sports,435.03,19,Belo Horizonte,Boleto
+579,2023-09-29,Fiction,Books,188.29,5,Belo Horizonte,Credit Card
+580,2024-09-22,Wardrobe,Furniture,100.76,12,Belo Horizonte,Credit Card
+581,2024-04-30,Video Game,Toys,110.53,17,Belo Horizonte,Debit Card
+582,2025-02-28,Bandage,Health,197.33,16,Belo Horizonte,Cash
+583,2024-09-23,Paint,Automotive,174.02,5,Rio de Janeiro,Cash
+584,2026-04-09,Bicycle,Sports,104.47,4,Goiania,Boleto
+585,2023-01-05,Toothpaste,Health,288.14,19,Fortaleza,Credit Card
+586,2023-10-17,Lego,Toys,47.12,6,Curitiba,Credit Card
+587,2025-10-04,Banana,Food,280.54,4,Recife,PIX
+588,2026-01-06,Sneakers,Sports,61.07,2,Fortaleza,Credit Card
+589,2025-05-29,Smartphone,Electronics,439,1,Sao Paulo,PIX
+590,2024-10-15,Beans,Food,218.05,8,Brasilia,Debit Card
+591,2024-12-15,Sneakers,Sports,379.2,5,Rio de Janeiro,Cash
+592,2025-02-01,Screwdriver,Automotive,256.29,12,Sao Paulo,Boleto
+593,2026-04-10,Dress,Clothing,51.86,5,Salvador,Cash
+594,2023-09-20,Gym Wear,Sports,322.5,14,Porto Alegre,Cash
+595,2025-04-30,Screwdriver,Automotive,206.53,4,Rio de Janeiro,Credit Card
+596,2025-08-03,Smartphone,Electronics,175.74,16,Curitiba,Boleto
+597,2025-07-25,Dress,Clothing,131.47,1,Goiania,Debit Card
+598,2023-02-09,Conditioner,Beauty,163.11,17,Sao Paulo,PIX
+599,2026-03-06,Cream,Beauty,177.08,13,Belo Horizonte,Cash
+600,2025-07-02,Toothbrush,Beauty,394.78,13,Porto Alegre,Credit Card
+601,2026-04-22,Children,Books,307.23,15,Belo Horizonte,Debit Card
+602,2025-08-24,Makeup,Beauty,267.78,15,Curitiba,Credit Card
+603,2025-01-21,Screwdriver,Automotive,113.48,10,Salvador,Debit Card
+604,2023-09-20,Cheese,Food,125.98,18,Goiania,Boleto
+605,2024-06-20,Pants,Clothing,106.87,1,Recife,PIX
+606,2023-05-29,Romance,Books,473.96,15,Belo Horizonte,Cash
+607,2024-05-03,Table,Furniture,206.16,7,Fortaleza,PIX
+608,2023-08-04,Jacket,Clothing,499.7,7,Salvador,Debit Card
+609,2026-01-10,Banana,Food,325.9,20,Rio de Janeiro,Cash
+610,2025-03-22,Non-Fiction,Books,457.23,5,Salvador,PIX
+611,2026-02-09,Bulb,Automotive,389.51,11,Fortaleza,Cash
+612,2025-06-02,Car,Toys,504.83,7,Rio de Janeiro,Credit Card
+613,2024-02-23,Cap,Clothing,495.74,18,Goiania,Credit Card
+614,2024-02-24,Volleyball,Sports,89.61,9,Porto Alegre,Debit Card
+615,2026-05-23,Apple,Food,441.38,5,Brasilia,PIX
+616,2023-10-10,Camera,Electronics,12.81,4,Fortaleza,Boleto
+617,2023-08-19,Toothpaste,Health,372.55,3,Fortaleza,Credit Card
+618,2023-11-18,Bulb,Automotive,61.49,10,Porto Alegre,Boleto
+619,2024-07-02,Bulb,Automotive,495.67,4,Porto Alegre,Boleto
+620,2023-12-17,Vitamins,Health,131.38,17,Belo Horizonte,Cash
+621,2026-05-07,Soap,Beauty,134.83,11,Fortaleza,PIX
+622,2026-03-15,Toothpaste,Health,402.37,12,Porto Alegre,PIX
+623,2024-12-20,Shelf,Furniture,108.76,5,Brasilia,Boleto
+624,2023-11-09,Apple,Food,288.75,5,Goiania,Debit Card
+625,2024-08-04,Meat,Food,380.76,12,Rio de Janeiro,Cash
+626,2023-02-21,Conditioner,Beauty,75.24,13,Porto Alegre,Cash
+627,2025-05-11,Bicycle,Sports,501.35,12,Recife,PIX
+628,2023-07-28,Chair,Furniture,402.36,4,Porto Alegre,Debit Card
+629,2024-06-29,Bandage,Health,135.5,3,Recife,Boleto
+630,2024-05-03,Rice,Food,162.63,10,Recife,Debit Card
+631,2025-01-09,Mouthwash,Health,284.29,10,Sao Paulo,Cash
+632,2023-03-02,Video Game,Toys,471.99,9,Rio de Janeiro,Boleto
+633,2024-09-04,Beans,Food,173.72,14,Fortaleza,Cash
+634,2023-10-26,Thermometer,Health,273.45,2,Goiania,Boleto
+635,2024-02-11,Technical,Books,316.3,13,Recife,Credit Card
+636,2024-01-28,Toothbrush,Beauty,346.56,17,Rio de Janeiro,Debit Card
+637,2024-04-15,History,Books,334.52,1,Brasilia,PIX
+638,2023-06-27,Filter,Automotive,416.64,3,Brasilia,Debit Card
+639,2025-03-25,Non-Fiction,Books,186.67,2,Fortaleza,Debit Card
+640,2025-06-13,Headphones,Electronics,52.57,12,Fortaleza,Boleto
+641,2025-11-23,Notebook,Electronics,474.93,3,Recife,Debit Card
+642,2023-01-22,Dress,Clothing,243.59,10,Salvador,Debit Card
+643,2023-11-09,Sofa,Furniture,78.31,12,Porto Alegre,Credit Card
+644,2025-08-21,Cream,Beauty,476.56,12,Belo Horizonte,PIX
+645,2024-08-22,Wardrobe,Furniture,195.95,10,Sao Paulo,Debit Card
+646,2023-10-24,Mouthwash,Health,471.8,3,Fortaleza,Boleto
+647,2026-02-08,Children,Books,297.51,6,Brasilia,PIX
+648,2023-11-03,Puzzle,Toys,415.37,5,Goiania,Boleto
+649,2023-05-27,Jacket,Clothing,73.28,19,Porto Alegre,Credit Card
+650,2025-07-01,Rice,Food,103.13,12,Curitiba,Boleto
+651,2023-02-07,Sneakers,Sports,52.07,14,Rio de Janeiro,Cash
+652,2025-04-02,Skateboard,Sports,164.94,19,Porto Alegre,Boleto
+653,2025-12-15,Jacket,Clothing,102.1,19,Sao Paulo,Debit Card
+654,2023-06-21,Filter,Automotive,420,4,Recife,Debit Card
+655,2024-10-30,Conditioner,Beauty,154.66,19,Goiania,Boleto
+656,2024-08-26,Makeup,Beauty,43.73,15,Rio de Janeiro,PIX
+657,2025-07-29,Bicycle,Sports,342.1,15,Sao Paulo,Debit Card
+658,2024-10-20,Ball,Toys,399.82,17,Salvador,Debit Card
+659,2026-01-30,Toothpaste,Health,301.35,16,Belo Horizonte,Cash
+660,2025-06-23,Puzzle,Toys,499.88,18,Recife,Credit Card
+661,2023-11-12,Self-Help,Books,364.1,4,Salvador,Credit Card
+662,2023-05-18,Soccer Ball,Sports,286.72,3,Sao Paulo,Boleto
+663,2024-11-03,Conditioner,Beauty,359.58,20,Salvador,Debit Card
+664,2024-03-17,Cream,Beauty,362.77,2,Fortaleza,Debit Card
+665,2025-12-16,Tire,Automotive,485.43,18,Belo Horizonte,PIX
+666,2023-10-05,Notebook,Electronics,139.36,20,Belo Horizonte,PIX
+667,2025-10-12,Thermometer,Health,406.04,20,Goiania,Credit Card
+668,2025-11-08,Perfume,Beauty,345.68,16,Goiania,Boleto
+669,2026-06-13,Doll,Toys,105.61,11,Sao Paulo,Credit Card
+670,2024-04-14,Toothpaste,Health,475.94,7,Rio de Janeiro,Credit Card
+671,2025-09-16,Cheese,Food,76.92,8,Curitiba,Debit Card
+672,2025-03-21,Toothbrush,Beauty,103.67,6,Brasilia,Credit Card
+673,2024-04-03,Gym Wear,Sports,41.45,11,Goiania,PIX
+674,2023-02-19,Socks,Clothing,312.12,10,Recife,Boleto
+675,2023-09-07,Soccer Ball,Sports,404.32,13,Recife,Cash
+676,2024-06-24,Beans,Food,236.34,11,Curitiba,Credit Card
+677,2024-04-07,Gym Wear,Sports,420.84,9,Rio de Janeiro,Cash
+678,2025-04-14,Rice,Food,309.47,6,Goiania,Cash
+679,2023-08-04,Cap,Clothing,458.8,4,Curitiba,PIX
+680,2024-09-04,Action Figure,Toys,194.91,14,Curitiba,Debit Card
+681,2025-04-16,Milk,Food,389.1,7,Curitiba,Credit Card
+682,2024-05-03,Bandage,Health,80.07,9,Belo Horizonte,Credit Card
+683,2025-06-16,Perfume,Beauty,332.75,13,Curitiba,Debit Card
+684,2024-04-18,Ball,Toys,228.43,5,Curitiba,PIX
+685,2025-09-21,Keyboard,Electronics,135.26,16,Porto Alegre,Cash
+686,2024-01-05,Table,Furniture,404.91,13,Salvador,Credit Card
+687,2025-02-03,Table,Furniture,459.08,5,Belo Horizonte,PIX
+688,2024-05-08,Shelf,Furniture,305.64,16,Goiania,Boleto
+689,2025-07-26,Shoes,Clothing,464.4,8,Recife,Credit Card
+690,2023-01-19,Vitamins,Health,235.6,10,Porto Alegre,Cash
+691,2024-07-06,Sneakers,Sports,217.61,8,Fortaleza,Credit Card
+692,2025-03-15,Skateboard,Sports,56.14,16,Recife,Cash
+693,2024-06-13,Perfume,Beauty,50.57,17,Recife,Boleto
+694,2025-10-17,Conditioner,Beauty,153.57,3,Brasilia,Credit Card
+695,2024-02-18,Bandage,Health,343.3,11,Curitiba,Debit Card
+696,2023-04-08,Volleyball,Sports,285.83,19,Salvador,Debit Card
+697,2025-10-09,Non-Fiction,Books,309.52,17,Porto Alegre,PIX
+698,2024-11-03,Paint,Automotive,507.58,11,Brasilia,Cash
+699,2023-09-09,Mouse,Electronics,225.79,12,Sao Paulo,Boleto
+700,2024-02-24,Soccer Ball,Sports,36.81,7,Brasilia,Debit Card
+701,2026-02-17,Sofa,Furniture,256.28,2,Fortaleza,PIX
+702,2024-01-17,Headphones,Electronics,66.46,4,Goiania,Boleto
+703,2025-08-22,Notebook,Electronics,85.18,3,Salvador,Credit Card
+704,2026-05-02,Bicycle,Sports,494.17,12,Rio de Janeiro,PIX
+705,2024-10-25,Toothpaste,Health,329.2,13,Rio de Janeiro,Cash
+706,2024-03-07,Mouse,Electronics,479.11,3,Sao Paulo,Credit Card
+707,2024-11-13,Socks,Clothing,59.04,6,Sao Paulo,Cash
+708,2026-03-18,Soccer Ball,Sports,259.28,12,Rio de Janeiro,Debit Card
+709,2024-01-08,Cream,Beauty,65.89,15,Curitiba,Debit Card
+710,2023-05-02,Toothbrush,Beauty,483.55,5,Sao Paulo,Credit Card
+711,2025-07-29,Conditioner,Beauty,312.58,5,Fortaleza,Credit Card
+712,2023-06-18,Lego,Toys,51.6,8,Porto Alegre,Boleto
+713,2024-07-30,Table,Furniture,459.06,19,Rio de Janeiro,Debit Card
+714,2025-04-23,Car,Toys,39.34,19,Porto Alegre,Cash
+715,2026-02-05,Bicycle,Sports,240.21,7,Brasilia,Boleto
+716,2023-02-13,Smartphone,Electronics,65.05,10,Fortaleza,Boleto
+717,2026-01-08,Non-Fiction,Books,273.09,12,Salvador,Credit Card
+718,2025-03-06,Bandage,Health,343,6,Salvador,Debit Card
+719,2026-04-18,Shampoo,Beauty,368.77,2,Belo Horizonte,Debit Card
+720,2023-08-13,Gym Wear,Sports,501.52,16,Recife,Credit Card
+721,2023-10-09,Screwdriver,Automotive,56.4,6,Recife,Debit Card
+722,2023-01-26,Puzzle,Toys,119.77,7,Porto Alegre,PIX
+723,2023-09-17,Vitamins,Health,72.51,13,Porto Alegre,Debit Card
+724,2025-04-15,Volleyball,Sports,75.53,14,Curitiba,PIX
+725,2024-01-31,Desk,Furniture,246.29,13,Brasilia,Boleto
+726,2023-09-05,Action Figure,Toys,231.04,6,Brasilia,Cash
+727,2023-02-16,Smartphone,Electronics,257.63,20,Salvador,PIX
+728,2023-07-12,Bicycle,Sports,15.42,9,Porto Alegre,PIX
+729,2023-10-31,Bread,Food,377.32,1,Curitiba,Debit Card
+730,2024-06-15,Technical,Books,474.72,18,Goiania,Boleto
+731,2024-11-28,Screwdriver,Automotive,120.97,7,Salvador,Credit Card
+732,2025-10-17,Socks,Clothing,419.6,17,Sao Paulo,PIX
+733,2024-02-01,Dress,Clothing,205.37,8,Recife,Boleto
+734,2024-01-22,Puzzle,Toys,398.89,2,Curitiba,Boleto
+735,2026-02-14,Sneakers,Sports,437.03,6,Brasilia,Credit Card
+736,2026-05-09,Toothbrush,Beauty,258.59,15,Rio de Janeiro,Credit Card
+737,2025-11-04,Non-Fiction,Books,367.95,11,Fortaleza,Debit Card
+738,2024-08-28,Sneakers,Sports,83.93,17,Fortaleza,PIX
+739,2024-07-01,Keyboard,Electronics,390.07,18,Curitiba,Cash
+740,2023-06-03,Sneakers,Sports,360.83,10,Goiania,Debit Card
+741,2025-11-22,Ball,Toys,379.09,11,Fortaleza,PIX
+742,2023-08-01,Fiction,Books,360.19,15,Curitiba,Debit Card
+743,2024-05-08,TV,Electronics,166.06,14,Salvador,Credit Card
+744,2024-05-31,Smartphone,Electronics,67.87,14,Recife,PIX
+745,2026-06-03,Non-Fiction,Books,121.59,5,Recife,Cash
+746,2023-07-04,Rice,Food,146.63,20,Goiania,Credit Card
+747,2024-10-11,Toothpaste,Health,33.86,1,Belo Horizonte,Credit Card
+748,2023-12-04,Rice,Food,130.09,5,Rio de Janeiro,Boleto
+749,2025-07-11,Apple,Food,23.75,2,Fortaleza,Debit Card
+750,2023-05-20,Brush,Automotive,278.52,4,Goiania,PIX
+751,2025-04-04,Camera,Electronics,420.29,8,Salvador,Cash
+752,2024-12-14,Smartphone,Electronics,409.88,8,Sao Paulo,Boleto
+753,2024-03-31,T-Shirt,Clothing,60.08,12,Brasilia,Cash
+754,2023-05-16,Pants,Clothing,307.22,15,Porto Alegre,PIX
+755,2024-09-24,Bandage,Health,135.39,20,Goiania,PIX
+756,2023-01-29,Pants,Clothing,445.57,16,Salvador,Debit Card
+757,2023-05-15,Bread,Food,318.03,15,Goiania,Credit Card
+758,2025-09-20,Technical,Books,383.88,20,Brasilia,Boleto
+759,2025-06-12,Non-Fiction,Books,290.47,2,Porto Alegre,PIX
+760,2024-05-27,Sneakers,Sports,146.24,6,Goiania,PIX
+761,2023-10-13,Desk,Furniture,299.8,2,Goiania,Boleto
+762,2025-03-30,Technical,Books,446.54,2,Porto Alegre,Debit Card
+763,2024-01-08,Headphones,Electronics,256.38,10,Salvador,Credit Card
+764,2024-04-15,Bread,Food,341.92,17,Goiania,Cash
+765,2024-06-23,Wardrobe,Furniture,232.7,13,Sao Paulo,Boleto
+766,2026-04-14,Soap,Beauty,449.08,10,Porto Alegre,Debit Card
+767,2024-05-21,Oil,Automotive,134.45,1,Porto Alegre,Debit Card
+768,2026-06-07,Doll,Toys,60.9,19,Brasilia,PIX
+769,2023-01-13,Keyboard,Electronics,103.21,6,Belo Horizonte,Cash
+770,2025-01-07,Vitamins,Health,395.53,11,Recife,Debit Card
+771,2023-11-05,Bandage,Health,197.56,12,Recife,Credit Card
+772,2023-04-27,Cap,Clothing,363.3,19,Goiania,Cash
+773,2024-10-29,Mouthwash,Health,508.72,11,Brasilia,Cash
+774,2024-05-24,Mouthwash,Health,486.67,5,Curitiba,Boleto
+775,2024-05-06,Children,Books,370.57,14,Fortaleza,Cash
+776,2024-06-10,Paint,Automotive,198.66,13,Goiania,Boleto
+777,2024-08-16,Table,Furniture,206.38,20,Goiania,PIX
+778,2024-01-24,Paint,Automotive,376.25,11,Curitiba,Debit Card
+779,2024-10-13,Painkiller,Health,51.76,11,Rio de Janeiro,Cash
+780,2023-04-19,Pants,Clothing,398.56,3,Rio de Janeiro,Credit Card
+781,2024-04-28,Mouse,Electronics,439.31,19,Brasilia,Credit Card
+782,2024-05-09,Socks,Clothing,151.4,17,Porto Alegre,Cash
+783,2025-02-22,Chair,Furniture,21.76,12,Brasilia,Cash
+784,2023-06-11,Bandage,Health,39.65,12,Recife,Boleto
+785,2025-03-10,Apple,Food,45.57,11,Recife,Debit Card
+786,2026-01-18,Lego,Toys,67.08,14,Goiania,PIX
+787,2025-12-08,Apple,Food,198.01,18,Fortaleza,Debit Card
+788,2024-11-22,Bicycle,Sports,151.54,5,Rio de Janeiro,Cash
+789,2023-10-28,Screwdriver,Automotive,72.21,6,Fortaleza,PIX
+790,2025-02-23,Keyboard,Electronics,275.47,10,Belo Horizonte,PIX
+791,2024-09-20,Shelf,Furniture,30.53,2,Rio de Janeiro,Cash
+792,2025-05-13,Perfume,Beauty,167.85,15,Porto Alegre,Debit Card
+793,2024-07-02,Desk,Furniture,336.4,17,Sao Paulo,Boleto
+794,2025-10-31,Ball,Toys,394.99,20,Brasilia,Boleto
+795,2023-05-02,Bed,Furniture,415.1,6,Curitiba,Debit Card
+796,2024-10-10,Toothbrush,Beauty,202.21,16,Curitiba,Debit Card
+797,2024-03-16,Thermometer,Health,230.56,4,Porto Alegre,Cash
+798,2023-07-23,Conditioner,Beauty,318.62,10,Porto Alegre,Credit Card
+799,2025-08-19,Technical,Books,61.37,12,Salvador,Cash
+800,2024-10-06,Socks,Clothing,171.68,4,Curitiba,Debit Card
+801,2026-03-22,Toothbrush,Beauty,329.9,7,Brasilia,Cash
+802,2025-04-26,Thermometer,Health,129.99,20,Rio de Janeiro,Cash
+803,2023-08-27,Keyboard,Electronics,438.92,16,Curitiba,Debit Card
+804,2026-01-24,Mouthwash,Health,498.32,1,Porto Alegre,Debit Card
+805,2023-08-22,Smartphone,Electronics,70.8,2,Porto Alegre,Cash
+806,2025-01-06,Ball,Toys,185.9,10,Belo Horizonte,Cash
+807,2024-08-26,Skateboard,Sports,229.6,18,Porto Alegre,Credit Card
+808,2025-05-11,Bandage,Health,129.54,9,Curitiba,PIX
+809,2025-10-28,Apple,Food,250.2,3,Belo Horizonte,Credit Card
+810,2023-06-29,TV,Electronics,403.5,8,Goiania,Credit Card
+811,2025-07-03,T-Shirt,Clothing,172.47,8,Rio de Janeiro,Debit Card
+812,2025-04-03,Headphones,Electronics,356.32,2,Goiania,Boleto
+813,2023-04-07,Filter,Automotive,347.49,3,Belo Horizonte,Debit Card
+814,2024-10-01,Technical,Books,495.86,12,Goiania,Debit Card
+815,2025-08-05,Paint,Automotive,217.57,8,Brasilia,PIX
+816,2023-01-21,Brush,Automotive,288.66,1,Rio de Janeiro,Debit Card
+817,2023-01-04,Chair,Furniture,478.89,2,Belo Horizonte,Debit Card
+818,2025-11-15,T-Shirt,Clothing,297.65,4,Fortaleza,PIX
+819,2025-07-22,Chair,Furniture,66.8,14,Fortaleza,Credit Card
+820,2024-05-11,Cap,Clothing,45.79,13,Fortaleza,Boleto
+821,2023-05-21,Thermometer,Health,503.04,20,Fortaleza,PIX
+822,2024-04-10,Tablet,Electronics,363.97,1,Fortaleza,Credit Card
+823,2024-11-20,Soccer Ball,Sports,148.98,17,Salvador,Boleto
+824,2025-05-14,Children,Books,87.98,10,Salvador,Credit Card
+825,2024-10-24,Car,Toys,44.1,14,Porto Alegre,Boleto
+826,2024-09-04,Wardrobe,Furniture,454.48,1,Goiania,Credit Card
+827,2025-03-30,Video Game,Toys,36.45,16,Brasilia,Cash
+828,2025-06-27,Cream,Beauty,155.25,16,Porto Alegre,Debit Card
+829,2025-09-19,Tablet,Electronics,199.28,15,Fortaleza,Boleto
+830,2023-02-26,Wardrobe,Furniture,145.68,2,Rio de Janeiro,Cash
+831,2024-03-20,Mouse,Electronics,355.68,16,Rio de Janeiro,Boleto
+832,2026-05-14,Car,Toys,465.57,19,Fortaleza,Boleto
+833,2025-05-13,Romance,Books,123.07,1,Brasilia,Cash
+834,2024-08-31,Apple,Food,264.44,9,Sao Paulo,Boleto
+835,2023-09-10,Shoes,Clothing,488.55,8,Curitiba,Boleto
+836,2023-10-13,Mouthwash,Health,121.91,17,Recife,Credit Card
+837,2023-07-03,Oil,Automotive,389.42,6,Recife,Debit Card
+838,2025-01-28,Banana,Food,363.82,2,Salvador,PIX
+839,2023-10-23,Action Figure,Toys,363.43,4,Brasilia,Boleto
+840,2026-05-06,Wardrobe,Furniture,71.04,9,Belo Horizonte,Boleto
+841,2023-11-22,Volleyball,Sports,40.87,10,Salvador,Cash
+842,2024-04-10,Perfume,Beauty,177.35,5,Curitiba,Boleto
+843,2023-08-06,Paint,Automotive,309.5,4,Porto Alegre,Boleto
+844,2024-01-17,Volleyball,Sports,448.58,2,Sao Paulo,Debit Card
+845,2025-09-20,Oil,Automotive,79.21,2,Belo Horizonte,Debit Card
+846,2024-04-06,Sofa,Furniture,235.57,8,Brasilia,Boleto
+847,2024-05-01,Headphones,Electronics,367.71,15,Belo Horizonte,Cash
+848,2026-04-11,Bicycle,Sports,120.14,14,Belo Horizonte,PIX
+849,2024-01-16,Bread,Food,439.78,8,Recife,Cash
+850,2026-04-09,Doll,Toys,187.16,6,Porto Alegre,Credit Card
+851,2024-04-22,Shelf,Furniture,193.48,13,Porto Alegre,PIX
+852,2026-05-08,Wardrobe,Furniture,238.81,1,Porto Alegre,Debit Card
+853,2025-07-09,Shoes,Clothing,82.88,1,Brasilia,PIX
+854,2024-06-09,Cheese,Food,325.61,4,Goiania,Boleto
+855,2025-02-02,Cap,Clothing,437.52,1,Brasilia,Credit Card
+856,2023-02-26,Table,Furniture,235.91,18,Porto Alegre,Credit Card
+857,2023-11-19,Self-Help,Books,468.68,6,Goiania,PIX
+858,2026-04-09,Dress,Clothing,434.23,1,Brasilia,PIX
+859,2023-05-01,Sneakers,Sports,283.92,1,Salvador,Boleto
+860,2023-02-01,Gym Wear,Sports,355.01,5,Brasilia,Boleto
+861,2025-11-14,Non-Fiction,Books,40.94,14,Fortaleza,Boleto
+862,2024-02-23,History,Books,338.11,4,Porto Alegre,PIX
+863,2025-04-21,Cap,Clothing,81.45,15,Goiania,Cash
+864,2026-03-03,Milk,Food,356.72,5,Curitiba,Credit Card
+865,2023-10-16,Bulb,Automotive,146.85,4,Recife,Boleto
+866,2026-05-09,Doll,Toys,489.35,19,Sao Paulo,Cash
+867,2025-01-25,Toothpaste,Health,400.94,9,Fortaleza,PIX
+868,2026-01-17,Mouthwash,Health,217.76,13,Curitiba,Debit Card
+869,2023-07-10,Headphones,Electronics,394.68,15,Recife,Cash
+870,2024-12-16,Notebook,Electronics,146.74,5,Rio de Janeiro,Debit Card
+871,2024-07-11,Jacket,Clothing,193.12,17,Brasilia,PIX
+872,2026-05-27,Doll,Toys,410.69,15,Curitiba,Credit Card
+873,2024-02-24,Paint,Automotive,425.8,7,Belo Horizonte,Cash
+874,2023-01-04,Beans,Food,470.22,4,Curitiba,Boleto
+875,2023-01-24,Makeup,Beauty,192.37,13,Rio de Janeiro,Cash
+876,2023-03-06,Doll,Toys,447.04,5,Recife,Credit Card
+877,2026-05-05,Lego,Toys,416.01,16,Rio de Janeiro,Debit Card
+878,2024-02-27,Ball,Toys,447.54,4,Fortaleza,Boleto
+879,2024-04-17,Vitamins,Health,450.81,5,Curitiba,Boleto
+880,2025-09-09,Dress,Clothing,57.69,4,Goiania,PIX
+881,2024-12-09,Makeup,Beauty,389.08,13,Recife,Boleto
+882,2025-07-18,Bed,Furniture,401.67,19,Brasilia,PIX
+883,2025-07-15,Cap,Clothing,168.77,18,Goiania,Credit Card
+884,2023-12-02,Makeup,Beauty,467.78,4,Sao Paulo,Cash
+885,2025-12-15,Car,Toys,257.44,5,Brasilia,Cash
+886,2025-06-23,Smartphone,Electronics,362.9,14,Porto Alegre,Debit Card
+887,2025-11-06,Paint,Automotive,150.67,2,Brasilia,PIX
+888,2023-11-21,Apple,Food,309.9,4,Curitiba,Cash
+889,2023-10-28,Cap,Clothing,241.73,8,Brasilia,Credit Card
+890,2023-10-03,Cream,Beauty,294.15,8,Fortaleza,Cash
+891,2023-06-29,Keyboard,Electronics,142.96,10,Brasilia,PIX
+892,2026-04-13,Lego,Toys,382.52,1,Belo Horizonte,Cash
+893,2023-04-04,Paint,Automotive,184.39,6,Goiania,Debit Card
+894,2025-10-24,Notebook,Electronics,496.55,3,Recife,Cash
+895,2024-02-22,History,Books,122.14,13,Belo Horizonte,Credit Card
+896,2026-01-22,Meat,Food,150.07,11,Salvador,Debit Card
+897,2025-12-27,Chair,Furniture,377.22,15,Fortaleza,Debit Card
+898,2024-05-22,Desk,Furniture,423.15,2,Curitiba,Boleto
+899,2024-04-11,Pants,Clothing,13.14,17,Recife,PIX
+900,2025-12-26,Desk,Furniture,64.34,19,Belo Horizonte,Debit Card
+901,2023-02-05,Bicycle,Sports,143.92,3,Brasilia,PIX
+902,2024-07-09,Technical,Books,389.75,13,Sao Paulo,PIX
+903,2025-06-14,Lego,Toys,58.8,13,Belo Horizonte,PIX
+904,2023-11-02,Bread,Food,283.17,2,Salvador,Cash
+905,2024-06-30,Wardrobe,Furniture,61.89,2,Sao Paulo,Cash
+906,2026-06-09,Socks,Clothing,82.76,7,Goiania,Boleto
+907,2025-11-12,Bed,Furniture,312.75,16,Goiania,Cash
+908,2025-11-27,Tire,Automotive,152.45,18,Porto Alegre,Credit Card
+909,2026-03-23,Apple,Food,487.19,3,Belo Horizonte,Credit Card
+910,2023-06-21,Toothpaste,Health,294.04,20,Fortaleza,Credit Card
+911,2023-11-25,Cap,Clothing,67.73,20,Belo Horizonte,Credit Card
+912,2023-01-14,Fiction,Books,287.18,14,Sao Paulo,Boleto
+913,2026-05-02,Skateboard,Sports,380.02,13,Fortaleza,PIX
+914,2025-10-25,TV,Electronics,16.47,3,Recife,Credit Card
+915,2025-02-13,Romance,Books,359.53,17,Porto Alegre,Boleto
+916,2023-05-28,Perfume,Beauty,202.18,1,Rio de Janeiro,Cash
+917,2023-05-27,Smartphone,Electronics,222.27,9,Recife,PIX
+918,2025-07-24,Mouse,Electronics,410.21,19,Salvador,Boleto
+919,2023-09-12,Cap,Clothing,49.85,20,Salvador,PIX
+920,2025-02-09,Volleyball,Sports,423.04,5,Salvador,Debit Card
+921,2023-06-10,Shampoo,Beauty,457.59,20,Rio de Janeiro,Cash
+922,2026-02-04,Tablet,Electronics,151.3,1,Curitiba,Credit Card
+923,2024-02-21,Shelf,Furniture,505.42,6,Belo Horizonte,PIX
+924,2026-03-20,Socks,Clothing,54.83,2,Fortaleza,Debit Card
+925,2025-05-06,Sofa,Furniture,105.67,14,Rio de Janeiro,Boleto
+926,2023-08-03,Screwdriver,Automotive,199.86,17,Recife,Credit Card
+927,2023-10-20,Romance,Books,462,19,Recife,Boleto
+928,2023-10-04,Gym Wear,Sports,117.73,11,Brasilia,Boleto
+929,2025-06-05,Tire,Automotive,56.84,7,Goiania,Credit Card
+930,2024-08-19,Headphones,Electronics,14.42,15,Recife,Cash
+931,2025-04-06,Apple,Food,113.02,9,Brasilia,Debit Card
+932,2024-06-17,Painkiller,Health,104.39,5,Goiania,Boleto
+933,2024-01-18,Banana,Food,456.27,11,Salvador,Cash
+934,2023-09-24,Toothbrush,Beauty,169.67,13,Salvador,PIX
+935,2025-11-22,TV,Electronics,17.39,9,Fortaleza,Cash
+936,2024-10-07,Brush,Automotive,71.59,5,Brasilia,Debit Card
+937,2025-02-25,Screwdriver,Automotive,316.05,1,Curitiba,Cash
+938,2025-09-07,Gym Wear,Sports,254.38,4,Curitiba,Debit Card
+939,2025-03-17,Shelf,Furniture,56.98,12,Curitiba,Debit Card
+940,2023-01-11,Banana,Food,374.48,17,Salvador,Credit Card
+941,2024-08-27,Keyboard,Electronics,448.32,12,Belo Horizonte,PIX
+942,2025-07-17,Camera,Electronics,325.31,12,Curitiba,Debit Card
+943,2023-04-09,Shoes,Clothing,328.2,4,Recife,Cash
+944,2025-07-21,Makeup,Beauty,493.09,12,Recife,Cash
+945,2025-07-11,Meat,Food,418.9,3,Rio de Janeiro,Cash
+946,2023-02-12,Conditioner,Beauty,479.34,18,Sao Paulo,Debit Card
+947,2025-01-11,Cap,Clothing,450.1,8,Fortaleza,Cash
+948,2025-07-04,Bed,Furniture,143.62,5,Curitiba,Boleto
+949,2025-10-19,Cap,Clothing,360,6,Rio de Janeiro,Cash
+950,2024-03-12,Screwdriver,Automotive,476.61,10,Brasilia,PIX
+951,2023-11-14,Volleyball,Sports,198.54,17,Belo Horizonte,Boleto
+952,2024-12-18,Wardrobe,Furniture,402.68,1,Goiania,PIX
+953,2025-09-22,Soccer Ball,Sports,313.17,2,Porto Alegre,Cash
+954,2024-08-26,Video Game,Toys,254.95,2,Rio de Janeiro,Cash
+955,2024-07-08,Banana,Food,379.55,14,Rio de Janeiro,PIX
+956,2023-10-15,Lego,Toys,396.91,14,Sao Paulo,Boleto
+957,2024-02-15,Bulb,Automotive,412.68,7,Salvador,Cash
+958,2025-12-17,Doll,Toys,488.37,16,Fortaleza,Boleto
+959,2026-02-17,Mouthwash,Health,406.63,9,Goiania,Cash
+960,2025-02-28,TV,Electronics,185.68,19,Curitiba,Boleto
+961,2024-11-10,Skateboard,Sports,280.13,17,Sao Paulo,PIX
+962,2024-04-24,TV,Electronics,168.51,10,Salvador,Debit Card
+963,2023-06-03,Headphones,Electronics,444.1,12,Goiania,Cash
+964,2025-10-07,Bicycle,Sports,196.02,3,Goiania,Boleto
+965,2023-11-07,Camera,Electronics,26.47,3,Belo Horizonte,Cash
+966,2023-04-27,TV,Electronics,438.83,5,Belo Horizonte,PIX
+967,2023-12-15,Bread,Food,116.32,16,Curitiba,Credit Card
+968,2025-12-17,Table,Furniture,372.46,19,Recife,Credit Card
+969,2023-03-11,Dress,Clothing,305.9,10,Goiania,Cash
+970,2023-10-06,Mouse,Electronics,377.48,17,Salvador,Debit Card
+971,2023-01-02,Shelf,Furniture,187.53,10,Belo Horizonte,Boleto
+972,2023-11-27,Thermometer,Health,32.81,7,Porto Alegre,PIX
+973,2024-11-15,Makeup,Beauty,369.21,13,Fortaleza,Credit Card
+974,2023-11-25,Brush,Automotive,295.22,4,Salvador,Credit Card
+975,2024-05-08,Self-Help,Books,454.73,6,Salvador,Boleto
+976,2023-09-17,Beans,Food,70.18,8,Brasilia,Credit Card
+977,2025-01-03,Tablet,Electronics,17.07,8,Salvador,Boleto
+978,2025-04-06,Bread,Food,122.67,3,Fortaleza,Debit Card
+979,2025-08-07,Thermometer,Health,170.89,9,Goiania,Cash
+980,2023-01-15,Sneakers,Sports,312.28,5,Rio de Janeiro,Boleto
+981,2025-10-09,Non-Fiction,Books,77.08,8,Salvador,Cash
+982,2024-10-27,Vitamins,Health,341.91,13,Recife,Boleto
+983,2026-01-02,Bed,Furniture,150.73,9,Recife,PIX
+984,2023-08-06,Soap,Beauty,179.41,13,Recife,Boleto
+985,2023-04-25,Tablet,Electronics,419.23,10,Rio de Janeiro,Boleto
+986,2025-06-07,Banana,Food,287.06,3,Fortaleza,PIX
+987,2023-02-16,Doll,Toys,211.94,13,Belo Horizonte,PIX
+988,2024-04-19,Pants,Clothing,378.86,17,Porto Alegre,PIX
+989,2024-11-16,Soccer Ball,Sports,174.34,6,Sao Paulo,Credit Card
+990,2024-02-04,Lego,Toys,222.48,20,Fortaleza,Cash
+991,2025-10-22,Screwdriver,Automotive,158.27,1,Rio de Janeiro,PIX
+992,2025-05-27,Paint,Automotive,320.96,5,Belo Horizonte,Debit Card
+993,2024-11-02,Sneakers,Sports,135.13,16,Goiania,Debit Card
+994,2026-05-11,Makeup,Beauty,300.84,13,Sao Paulo,Debit Card
+995,2023-11-29,Ball,Toys,291.28,15,Porto Alegre,Debit Card
+996,2023-12-19,Chair,Furniture,201.87,7,Curitiba,Boleto
+997,2025-03-06,Fiction,Books,322.09,1,Brasilia,Credit Card
+998,2025-09-13,Cheese,Food,36.46,12,Goiania,Credit Card
+999,2023-12-24,Keyboard,Electronics,402.61,6,Rio de Janeiro,Debit Card
+1000,2023-07-06,T-Shirt,Clothing,197.74,3,Goiania,Debit Card
+1001,2025-09-25,Camera,Electronics,18.93,8,Brasilia,Cash
+1002,2023-05-31,TV,Electronics,415.3,20,Sao Paulo,Debit Card
+1003,2024-05-21,Jacket,Clothing,295.85,8,Goiania,PIX
+1004,2023-09-17,Makeup,Beauty,506.32,3,Rio de Janeiro,PIX
+1005,2024-09-06,Soccer Ball,Sports,224.74,3,Porto Alegre,PIX
+1006,2024-12-31,Non-Fiction,Books,293.92,15,Rio de Janeiro,Credit Card
+1007,2025-12-14,Perfume,Beauty,308.29,17,Salvador,Debit Card
+1008,2023-01-03,Beans,Food,449.35,14,Rio de Janeiro,Cash
+1009,2024-10-12,History,Books,205.58,1,Belo Horizonte,Debit Card
+1010,2025-03-11,Shoes,Clothing,227.4,17,Rio de Janeiro,Credit Card
+1011,2023-05-17,Bicycle,Sports,274.36,15,Sao Paulo,Debit Card
+1012,2023-02-16,Shelf,Furniture,254.49,9,Sao Paulo,Credit Card
+1013,2024-09-11,Banana,Food,153.62,17,Rio de Janeiro,Debit Card
+1014,2025-10-07,Banana,Food,395.01,8,Sao Paulo,Cash
+1015,2023-04-11,Children,Books,504.7,20,Curitiba,Boleto
+1016,2025-10-28,Thermometer,Health,111.41,1,Porto Alegre,Debit Card
+1017,2024-03-21,Pants,Clothing,134.08,5,Belo Horizonte,Boleto
+1018,2024-08-30,History,Books,327.76,2,Belo Horizonte,PIX
+1019,2024-02-08,Filter,Automotive,229.58,15,Salvador,Boleto
+1020,2025-11-15,Oil,Automotive,333.55,16,Rio de Janeiro,Boleto
+1021,2025-08-10,Socks,Clothing,453.17,4,Sao Paulo,Boleto
+1022,2024-03-26,Video Game,Toys,449.62,5,Sao Paulo,Debit Card
+1023,2025-01-31,Notebook,Electronics,453.9,6,Salvador,Boleto
+1024,2024-03-29,Chair,Furniture,449.81,11,Brasilia,Credit Card
+1025,2023-06-13,Rice,Food,230.6,5,Curitiba,PIX
+1026,2025-12-08,TV,Electronics,76.1,8,Recife,PIX
+1027,2026-05-05,Lego,Toys,275.63,19,Recife,Credit Card
+1028,2025-04-15,Dress,Clothing,117.73,4,Brasilia,Cash
+1029,2025-04-16,Paint,Automotive,28.03,14,Salvador,Debit Card
+1030,2025-06-17,Bandage,Health,488.44,6,Porto Alegre,Debit Card
+1031,2024-01-19,Dress,Clothing,271.71,9,Sao Paulo,Boleto
+1032,2025-09-02,Soap,Beauty,323.01,6,Goiania,Debit Card
+1033,2025-04-08,Ball,Toys,36.79,7,Recife,PIX
+1034,2024-12-13,Chair,Furniture,430.02,19,Salvador,Debit Card
+1035,2023-03-27,Vitamins,Health,419.91,1,Goiania,PIX
+1036,2025-07-19,Sofa,Furniture,391.72,19,Rio de Janeiro,PIX
+1037,2025-07-26,Conditioner,Beauty,349.8,18,Brasilia,Boleto
+1038,2024-12-01,Oil,Automotive,469.23,19,Porto Alegre,Cash
+1039,2023-09-30,Dress,Clothing,179.28,6,Sao Paulo,Cash
+1040,2025-02-16,Children,Books,44.85,10,Goiania,Boleto
+1041,2026-03-22,TV,Electronics,278.62,6,Sao Paulo,Debit Card
+1042,2023-05-26,Rice,Food,374.08,15,Belo Horizonte,Debit Card
+1043,2024-06-27,Skateboard,Sports,424.47,7,Curitiba,PIX
+1044,2026-03-21,TV,Electronics,154.33,16,Salvador,Debit Card
+1045,2023-06-10,Mouse,Electronics,231.43,2,Brasilia,Boleto
+1046,2024-09-28,Bicycle,Sports,249.54,11,Curitiba,Cash
+1047,2025-11-23,Jacket,Clothing,383.66,13,Curitiba,Boleto
+1048,2025-06-04,Jacket,Clothing,416.58,11,Salvador,PIX
+1049,2025-09-06,Milk,Food,285.52,3,Fortaleza,Boleto
+1050,2026-01-12,Camera,Electronics,356.39,15,Salvador,PIX
+1051,2024-03-27,Banana,Food,484.03,17,Belo Horizonte,Cash
+1052,2026-03-17,Gym Wear,Sports,411.18,12,Salvador,Debit Card
+1053,2026-01-16,Volleyball,Sports,327.71,9,Goiania,Cash
+1054,2025-02-20,Vitamins,Health,369.62,4,Curitiba,Cash
+1055,2023-12-10,Shelf,Furniture,139.89,10,Brasilia,Credit Card
+1056,2023-11-28,Thermometer,Health,257.68,2,Curitiba,Cash
+1057,2024-01-04,Romance,Books,330.78,16,Fortaleza,PIX
+1058,2023-10-15,Toothbrush,Beauty,367.24,7,Rio de Janeiro,Boleto
+1059,2024-07-16,Keyboard,Electronics,380.16,9,Fortaleza,Debit Card
+1060,2024-07-30,Shelf,Furniture,16.11,8,Porto Alegre,Credit Card
+1061,2024-11-17,Jacket,Clothing,432.61,1,Sao Paulo,Credit Card
+1062,2024-09-11,Sneakers,Sports,113.77,16,Rio de Janeiro,Cash
+1063,2023-05-30,History,Books,103.75,19,Recife,PIX
+1064,2023-07-06,Romance,Books,395.08,12,Belo Horizonte,Debit Card
+1065,2023-04-27,Tire,Automotive,67.13,10,Recife,Credit Card
+1066,2024-03-12,Shelf,Furniture,94.21,1,Sao Paulo,Credit Card
+1067,2025-12-14,Headphones,Electronics,304.43,15,Salvador,Credit Card
+1068,2025-07-14,Non-Fiction,Books,326.43,5,Brasilia,Boleto
+1069,2024-06-23,Cream,Beauty,380.92,17,Belo Horizonte,Credit Card
+1070,2024-10-23,Shoes,Clothing,30.32,17,Sao Paulo,Cash
+1071,2026-01-01,Apple,Food,169.96,14,Sao Paulo,Boleto
+1072,2026-02-28,Gym Wear,Sports,229.51,14,Belo Horizonte,Boleto
+1073,2023-09-15,Milk,Food,118.19,12,Brasilia,PIX
+1074,2023-08-30,Sofa,Furniture,71.81,9,Sao Paulo,PIX
+1075,2023-01-17,Camera,Electronics,254.71,17,Recife,Debit Card
+1076,2023-09-19,History,Books,12.98,11,Brasilia,Boleto
+1077,2024-01-29,T-Shirt,Clothing,265.54,3,Fortaleza,Cash
+1078,2025-03-18,Puzzle,Toys,259.1,1,Porto Alegre,Boleto
+1079,2024-12-09,Toothpaste,Health,11.75,9,Goiania,Debit Card
+1080,2025-06-06,Car,Toys,405.52,7,Recife,Debit Card
+1081,2024-11-23,Milk,Food,401.48,4,Salvador,Debit Card
+1082,2025-07-04,Gym Wear,Sports,451.08,20,Curitiba,Debit Card
+1083,2024-03-21,Action Figure,Toys,287.53,8,Rio de Janeiro,PIX
+1084,2025-04-03,Keyboard,Electronics,397.71,19,Belo Horizonte,PIX
+1085,2026-01-31,Beans,Food,454.07,3,Brasilia,Credit Card
+1086,2023-02-23,Shampoo,Beauty,153.57,3,Salvador,Cash
+1087,2024-05-10,Keyboard,Electronics,117.36,17,Belo Horizonte,Debit Card
+1088,2024-09-12,Toothbrush,Beauty,348.72,5,Rio de Janeiro,PIX
+1089,2024-12-22,Brush,Automotive,30.42,8,Porto Alegre,Boleto
+1090,2023-04-03,Apple,Food,180.39,10,Recife,Debit Card
+1091,2023-08-31,Mouthwash,Health,121.79,11,Recife,Cash
+1092,2023-01-22,Screwdriver,Automotive,43.49,1,Recife,PIX
+1093,2023-04-21,Mouthwash,Health,139.61,17,Fortaleza,PIX
+1094,2023-02-20,Oil,Automotive,331.28,8,Goiania,Debit Card
+1095,2023-03-11,Dress,Clothing,14.35,2,Belo Horizonte,Boleto
+1096,2025-04-13,Car,Toys,444.83,14,Porto Alegre,Cash
+1097,2023-09-29,Painkiller,Health,223.14,7,Goiania,Boleto
+1098,2025-03-01,Beans,Food,372.46,20,Belo Horizonte,PIX
+1099,2026-06-14,Toothpaste,Health,37.89,7,Belo Horizonte,Debit Card
+1100,2023-06-29,Rice,Food,480.7,14,Recife,PIX
+1101,2025-08-25,Doll,Toys,393.09,13,Fortaleza,Boleto
+1102,2026-04-26,Pants,Clothing,74.72,2,Brasilia,Boleto
+1103,2023-11-18,Technical,Books,434.1,2,Salvador,Boleto
+1104,2024-06-21,T-Shirt,Clothing,440.42,11,Sao Paulo,Debit Card
+1105,2024-12-18,Chair,Furniture,78.57,7,Fortaleza,Debit Card
+1106,2025-04-30,Sofa,Furniture,486.5,9,Curitiba,Credit Card
+1107,2026-01-28,Non-Fiction,Books,198.64,19,Curitiba,Debit Card
+1108,2024-08-21,Soccer Ball,Sports,114.09,9,Salvador,Credit Card
+1109,2025-10-04,Cheese,Food,217.98,5,Rio de Janeiro,Boleto
+1110,2024-04-19,Technical,Books,468.75,2,Porto Alegre,Boleto
+1111,2024-01-21,Sofa,Furniture,478.13,14,Porto Alegre,Boleto
+1112,2025-03-03,Keyboard,Electronics,86.65,4,Curitiba,Boleto
+1113,2023-04-03,Smartphone,Electronics,507.35,6,Belo Horizonte,Boleto
+1114,2024-04-30,Desk,Furniture,317.56,5,Belo Horizonte,Credit Card
+1115,2024-02-28,Milk,Food,420.3,10,Salvador,Debit Card
+1116,2024-10-31,Cap,Clothing,274.92,19,Sao Paulo,Boleto
+1117,2025-12-22,Soccer Ball,Sports,241.94,20,Recife,Debit Card
+1118,2023-10-11,Sneakers,Sports,439.08,18,Rio de Janeiro,Cash
+1119,2023-11-07,Soap,Beauty,504.41,9,Brasilia,Credit Card
+1120,2024-01-02,Bicycle,Sports,355.96,10,Brasilia,Cash
+1121,2023-07-19,Toothbrush,Beauty,305.39,1,Fortaleza,Boleto
+1122,2023-02-01,Non-Fiction,Books,315.51,17,Curitiba,Debit Card
+1123,2023-08-26,Bed,Furniture,432.63,14,Rio de Janeiro,Boleto
+1124,2024-11-01,Skateboard,Sports,128.56,11,Belo Horizonte,Debit Card
+1125,2025-12-28,Desk,Furniture,484.91,16,Curitiba,Boleto
+1126,2025-10-24,Oil,Automotive,122.7,20,Belo Horizonte,Cash
+1127,2025-06-12,Technical,Books,49.39,12,Curitiba,Credit Card
+1128,2023-01-31,Cream,Beauty,413.8,6,Belo Horizonte,Boleto
+1129,2026-05-25,Mouse,Electronics,442.85,1,Belo Horizonte,PIX
+1130,2025-07-17,Bulb,Automotive,37.79,3,Salvador,Credit Card
+1131,2026-04-11,Gym Wear,Sports,314.35,10,Belo Horizonte,Debit Card
+1132,2024-04-10,Socks,Clothing,73.87,11,Rio de Janeiro,Boleto
+1133,2025-05-24,Headphones,Electronics,407.63,14,Goiania,Boleto
+1134,2025-03-06,Shelf,Furniture,418.06,13,Salvador,Credit Card
+1135,2025-12-30,Video Game,Toys,299.76,13,Rio de Janeiro,Credit Card
+1136,2024-07-04,Children,Books,378.85,5,Belo Horizonte,Debit Card
+1137,2025-07-09,Painkiller,Health,119.79,10,Porto Alegre,PIX
+1138,2024-05-06,Toothpaste,Health,57.48,17,Curitiba,Credit Card
+1139,2025-03-31,Desk,Furniture,325.93,11,Fortaleza,Debit Card
+1140,2026-05-06,Gym Wear,Sports,121.23,9,Sao Paulo,Debit Card
+1141,2025-02-02,Tablet,Electronics,109.35,1,Fortaleza,Debit Card
+1142,2023-07-29,Action Figure,Toys,242.04,4,Salvador,Debit Card
+1143,2023-11-02,Bread,Food,289.95,8,Curitiba,Credit Card
+1144,2023-07-29,Ball,Toys,61.27,19,Rio de Janeiro,Boleto
+1145,2025-05-21,Filter,Automotive,246.07,17,Fortaleza,PIX
+1146,2026-01-28,Shampoo,Beauty,376.16,20,Rio de Janeiro,PIX
+1147,2024-12-29,Bicycle,Sports,54.88,13,Sao Paulo,Boleto
+1148,2024-03-02,Non-Fiction,Books,279.4,13,Sao Paulo,PIX
+1149,2024-01-23,Technical,Books,117.64,12,Sao Paulo,Credit Card
+1150,2025-06-17,Banana,Food,275.53,15,Belo Horizonte,PIX
+1151,2025-08-11,Oil,Automotive,430.27,9,Recife,PIX
+1152,2026-03-24,Children,Books,235.11,13,Salvador,Credit Card
+1153,2026-01-13,Video Game,Toys,386.24,13,Sao Paulo,Credit Card
+1154,2023-11-08,Children,Books,30.81,3,Goiania,Boleto
+1155,2024-03-28,Toothbrush,Beauty,258.12,6,Recife,PIX
+1156,2023-08-10,Doll,Toys,481.69,16,Salvador,Boleto
+1157,2024-07-13,Cream,Beauty,202.46,20,Rio de Janeiro,Cash
+1158,2023-07-01,Sofa,Furniture,462.57,18,Porto Alegre,Credit Card
+1159,2023-04-26,Filter,Automotive,17.95,6,Brasilia,Credit Card
+1160,2024-11-16,Action Figure,Toys,134.34,10,Porto Alegre,PIX
+1161,2023-05-06,Desk,Furniture,421.44,5,Salvador,Cash
+1162,2023-01-13,Banana,Food,414.53,4,Porto Alegre,Cash
+1163,2025-12-24,Children,Books,397.7,8,Goiania,PIX
+1164,2026-05-22,Chair,Furniture,151.98,10,Sao Paulo,PIX
+1165,2024-09-15,Perfume,Beauty,64.99,10,Goiania,Cash
+1166,2025-05-05,Screwdriver,Automotive,310.87,20,Porto Alegre,Boleto
+1167,2025-11-23,Paint,Automotive,39.06,10,Salvador,Debit Card
+1168,2024-05-23,Oil,Automotive,507.98,7,Recife,Boleto
+1169,2025-12-27,Paint,Automotive,37.49,12,Rio de Janeiro,Cash
+1170,2024-08-22,Jacket,Clothing,28.4,17,Sao Paulo,Credit Card
+1171,2023-05-29,Dress,Clothing,299.89,2,Brasilia,Boleto
+1172,2025-07-11,Wardrobe,Furniture,201.78,2,Salvador,Boleto
+1173,2023-09-25,Action Figure,Toys,169.85,12,Goiania,Cash
+1174,2024-02-11,Bread,Food,244.65,13,Rio de Janeiro,Credit Card
+1175,2026-01-14,Socks,Clothing,307.82,9,Brasilia,Debit Card
+1176,2023-03-14,Smartphone,Electronics,146.42,20,Goiania,Credit Card
+1177,2023-09-08,History,Books,206.09,7,Goiania,Boleto
+1178,2024-09-23,History,Books,75.15,12,Sao Paulo,Cash
+1179,2024-10-02,Tire,Automotive,132.89,8,Fortaleza,PIX
+1180,2023-02-08,Doll,Toys,32.43,19,Fortaleza,Boleto
+1181,2024-07-22,Bed,Furniture,191.97,14,Recife,PIX
+1182,2023-07-13,Volleyball,Sports,302.8,1,Rio de Janeiro,Debit Card
+1183,2023-09-06,Desk,Furniture,373.41,17,Porto Alegre,Boleto
+1184,2025-11-08,Paint,Automotive,197.8,14,Salvador,Cash
+1185,2024-06-09,Self-Help,Books,198.93,6,Recife,PIX
+1186,2024-09-21,Dress,Clothing,430.86,9,Goiania,Credit Card
+1187,2024-09-18,Children,Books,398.31,2,Fortaleza,Cash
+1188,2026-03-07,Oil,Automotive,495.24,7,Salvador,Debit Card
+1189,2023-01-07,Rice,Food,188.95,20,Curitiba,Debit Card
+1190,2024-10-20,Bed,Furniture,35.72,9,Rio de Janeiro,Cash
+1191,2024-11-07,Wardrobe,Furniture,287.96,7,Brasilia,PIX
+1192,2026-01-23,Self-Help,Books,203.06,14,Sao Paulo,Credit Card
+1193,2025-01-07,Screwdriver,Automotive,279.35,14,Recife,Cash
+1194,2023-05-23,Bicycle,Sports,264.34,6,Salvador,Credit Card
+1195,2023-06-22,Thermometer,Health,34.2,7,Sao Paulo,Boleto
+1196,2025-04-07,Notebook,Electronics,293.98,3,Porto Alegre,Debit Card
+1197,2025-08-02,Screwdriver,Automotive,304.28,9,Recife,Credit Card
+1198,2025-11-03,Jacket,Clothing,31.25,2,Brasilia,PIX
+1199,2023-04-05,Meat,Food,103.55,18,Curitiba,Boleto
+1200,2024-03-29,Soap,Beauty,128.09,17,Salvador,Debit Card
+1201,2023-08-12,Technical,Books,430.5,15,Recife,PIX
+1202,2026-02-28,Doll,Toys,217,2,Curitiba,Debit Card
+1203,2025-01-15,Screwdriver,Automotive,161.91,16,Sao Paulo,Credit Card
+1204,2024-12-16,Chair,Furniture,47.01,4,Porto Alegre,Credit Card
+1205,2025-05-08,Sneakers,Sports,250.27,20,Recife,Debit Card
+1206,2025-04-13,Cap,Clothing,29.61,8,Recife,Cash
+1207,2023-12-17,Bandage,Health,291.38,13,Belo Horizonte,Credit Card
+1208,2024-11-23,Volleyball,Sports,307.27,15,Rio de Janeiro,Credit Card
+1209,2025-12-12,TV,Electronics,81.16,15,Goiania,PIX
+1210,2024-11-28,Wardrobe,Furniture,306.13,7,Rio de Janeiro,Cash
+1211,2023-02-17,Puzzle,Toys,428.49,7,Salvador,Cash
+1212,2023-06-03,Camera,Electronics,122.39,9,Curitiba,Credit Card
+1213,2023-12-05,Car,Toys,188.9,14,Recife,Boleto
+1214,2025-02-09,Cap,Clothing,456.8,2,Belo Horizonte,Cash
+1215,2024-03-01,Headphones,Electronics,88.11,11,Brasilia,Boleto
+1216,2023-04-12,Volleyball,Sports,286,12,Porto Alegre,Debit Card
+1217,2024-08-28,Ball,Toys,321.74,13,Recife,Debit Card
+1218,2025-12-10,Smartphone,Electronics,272.33,5,Sao Paulo,Debit Card
+1219,2026-06-13,Perfume,Beauty,327.65,2,Sao Paulo,PIX
+1220,2023-06-26,Gym Wear,Sports,298.15,16,Curitiba,Cash
+1221,2024-11-22,Milk,Food,39.26,2,Sao Paulo,Cash
+1222,2024-07-05,T-Shirt,Clothing,244.35,14,Goiania,Boleto
+1223,2024-05-23,Table,Furniture,386.61,13,Rio de Janeiro,Debit Card
+1224,2024-11-10,Shelf,Furniture,65.52,9,Brasilia,Credit Card
+1225,2025-10-05,Apple,Food,500.92,15,Recife,PIX
+1226,2024-09-23,Mouthwash,Health,472.27,16,Fortaleza,Cash
+1227,2025-09-11,Fiction,Books,368.3,5,Recife,PIX
+1228,2024-12-12,Screwdriver,Automotive,159.5,2,Porto Alegre,Credit Card
+1229,2023-08-19,Bed,Furniture,110.47,3,Goiania,PIX
+1230,2025-01-18,Lego,Toys,292.6,17,Fortaleza,Boleto
+1231,2025-03-26,Children,Books,432.17,19,Belo Horizonte,Boleto
+1232,2026-05-24,Bicycle,Sports,50.65,11,Fortaleza,Boleto
+1233,2023-11-26,Tablet,Electronics,34.89,14,Goiania,Credit Card
+1234,2025-08-21,Skateboard,Sports,306.43,6,Curitiba,Cash
+1235,2023-03-24,Soccer Ball,Sports,266.47,13,Rio de Janeiro,Credit Card
+1236,2025-01-31,Doll,Toys,85.25,19,Salvador,PIX
+1237,2023-08-03,Notebook,Electronics,230.26,11,Curitiba,Debit Card
+1238,2023-05-29,Paint,Automotive,427.57,15,Curitiba,Cash
+1239,2025-03-19,Shampoo,Beauty,262.44,13,Salvador,Debit Card
+1240,2023-07-24,Action Figure,Toys,224.57,13,Fortaleza,Debit Card
+1241,2023-10-14,Perfume,Beauty,198.94,6,Goiania,Cash
+1242,2023-05-18,Vitamins,Health,169.05,6,Belo Horizonte,Boleto
+1243,2025-02-19,Fiction,Books,297.14,20,Sao Paulo,Cash
+1244,2026-02-19,Dress,Clothing,57.27,15,Recife,Cash
+1245,2025-01-24,Toothpaste,Health,500.58,14,Rio de Janeiro,PIX
+1246,2023-08-08,Soap,Beauty,23.89,13,Recife,Boleto
+1247,2024-03-06,Chair,Furniture,149.78,7,Porto Alegre,Credit Card
+1248,2025-01-26,T-Shirt,Clothing,31.36,10,Belo Horizonte,Credit Card
+1249,2024-10-03,Notebook,Electronics,17.48,13,Porto Alegre,Boleto
+1250,2026-05-23,Gym Wear,Sports,198.99,7,Brasilia,Boleto
+1251,2023-08-04,Bread,Food,263.79,5,Brasilia,Cash
+1252,2025-09-01,Screwdriver,Automotive,499.67,13,Goiania,PIX
+1253,2026-03-29,Thermometer,Health,88.3,1,Goiania,Debit Card
+1254,2024-06-02,Shelf,Furniture,300.44,5,Fortaleza,Cash
+1255,2023-01-31,Chair,Furniture,315,16,Belo Horizonte,Cash
+1256,2024-03-29,Tablet,Electronics,416.59,18,Goiania,Debit Card
+1257,2024-10-28,Shoes,Clothing,95.99,20,Recife,Boleto
+1258,2025-01-09,Screwdriver,Automotive,257.55,2,Recife,Credit Card
+1259,2025-10-08,Vitamins,Health,213.69,8,Porto Alegre,Credit Card
+1260,2025-06-06,Bulb,Automotive,488.02,8,Fortaleza,Boleto
+1261,2024-05-10,History,Books,273.83,1,Fortaleza,Cash
+1262,2026-04-14,Jacket,Clothing,87.5,3,Salvador,Debit Card
+1263,2023-08-21,Doll,Toys,408.12,18,Rio de Janeiro,Boleto
+1264,2025-11-13,Meat,Food,211.12,5,Sao Paulo,PIX
+1265,2025-02-21,Mouse,Electronics,486.36,9,Brasilia,PIX
+1266,2023-11-02,Sofa,Furniture,132.24,12,Belo Horizonte,Boleto
+1267,2024-11-23,Volleyball,Sports,387.64,1,Recife,Cash
+1268,2023-10-22,Cheese,Food,372,6,Goiania,Boleto
+1269,2023-07-03,Romance,Books,28.25,1,Sao Paulo,PIX
+1270,2024-08-16,Bandage,Health,487.02,3,Salvador,Debit Card
+1271,2023-12-07,Filter,Automotive,102.15,6,Goiania,PIX
+1272,2025-06-25,Wardrobe,Furniture,323.8,2,Salvador,Boleto
+1273,2024-01-27,Soccer Ball,Sports,398.54,2,Porto Alegre,PIX
+1274,2026-02-21,Notebook,Electronics,388.73,1,Curitiba,Debit Card
+1275,2025-11-10,Thermometer,Health,474.25,11,Fortaleza,Boleto
+1276,2025-08-28,Volleyball,Sports,224.39,17,Goiania,PIX
+1277,2023-11-15,Cap,Clothing,266.69,6,Belo Horizonte,Boleto
+1278,2023-05-29,Bandage,Health,419.66,2,Porto Alegre,PIX
+1279,2023-03-02,Jacket,Clothing,481.17,5,Belo Horizonte,PIX
+1280,2023-04-05,History,Books,298.78,4,Salvador,PIX
+1281,2023-11-17,Shelf,Furniture,22.56,8,Porto Alegre,Cash
+1282,2024-02-07,Sneakers,Sports,372.54,2,Curitiba,Cash
+1283,2024-02-21,Shampoo,Beauty,22.9,4,Brasilia,Cash
+1284,2023-05-19,Tablet,Electronics,164.07,3,Brasilia,Debit Card
+1285,2025-10-30,T-Shirt,Clothing,128.88,2,Fortaleza,Credit Card
+1286,2026-05-14,Shampoo,Beauty,96.17,16,Sao Paulo,Debit Card
+1287,2024-06-06,T-Shirt,Clothing,269.92,16,Brasilia,Boleto
+1288,2024-11-11,Toothpaste,Health,82.77,20,Brasilia,PIX
+1289,2025-09-23,Mouthwash,Health,288.34,6,Brasilia,Credit Card
+1290,2024-06-08,Fiction,Books,492.78,11,Brasilia,PIX
+1291,2024-01-05,TV,Electronics,496.02,9,Goiania,Cash
+1292,2023-12-30,Banana,Food,116.19,16,Recife,PIX
+1293,2023-02-01,Soccer Ball,Sports,110.79,11,Porto Alegre,Boleto
+1294,2023-04-19,Technical,Books,480.27,9,Sao Paulo,Debit Card
+1295,2025-01-02,Table,Furniture,168.16,12,Porto Alegre,Cash
+1296,2025-01-01,Toothbrush,Beauty,316.88,6,Brasilia,PIX
+1297,2025-04-23,Wardrobe,Furniture,71.12,13,Sao Paulo,PIX
+1298,2026-03-01,Wardrobe,Furniture,445.32,8,Belo Horizonte,PIX
+1299,2025-01-22,Socks,Clothing,340.64,16,Rio de Janeiro,Credit Card
+1300,2025-08-06,T-Shirt,Clothing,254.69,11,Brasilia,Credit Card
+1301,2025-07-08,Self-Help,Books,443.72,15,Brasilia,Boleto
+1302,2026-01-29,Ball,Toys,65.23,8,Salvador,PIX
+1303,2024-06-15,Video Game,Toys,467.19,4,Porto Alegre,PIX
+1304,2025-07-22,Apple,Food,429.87,8,Brasilia,Cash
+1305,2023-01-25,Bandage,Health,256.72,14,Belo Horizonte,Boleto
+1306,2026-05-16,Wardrobe,Furniture,72.47,6,Brasilia,Cash
+1307,2024-12-29,Video Game,Toys,456.03,10,Goiania,PIX
+1308,2026-03-04,Non-Fiction,Books,316.81,8,Porto Alegre,Credit Card
+1309,2023-11-06,Headphones,Electronics,499.16,9,Sao Paulo,PIX
+1310,2026-02-28,Video Game,Toys,228.56,5,Recife,Debit Card
+1311,2024-01-16,Oil,Automotive,285.81,2,Sao Paulo,Cash
+1312,2025-03-28,History,Books,315.11,9,Goiania,Credit Card
+1313,2023-01-04,Wardrobe,Furniture,318.92,13,Porto Alegre,Boleto
+1314,2023-03-04,Perfume,Beauty,472.41,4,Sao Paulo,Credit Card
+1315,2024-11-01,Bicycle,Sports,409.48,7,Sao Paulo,Debit Card
+1316,2024-01-07,Shampoo,Beauty,198.3,17,Goiania,Cash
+1317,2025-08-23,Headphones,Electronics,355.55,8,Curitiba,Debit Card
+1318,2026-03-14,Technical,Books,38.2,20,Rio de Janeiro,Cash
+1319,2025-11-07,Chair,Furniture,181.58,18,Curitiba,Debit Card
+1320,2026-03-19,Bread,Food,103.38,19,Recife,PIX
+1321,2025-10-01,Sofa,Furniture,111.26,15,Porto Alegre,Cash
+1322,2023-03-18,Ball,Toys,62,16,Fortaleza,Debit Card
+1323,2024-03-18,Beans,Food,493.16,2,Porto Alegre,Credit Card
+1324,2023-08-26,Brush,Automotive,32.04,7,Salvador,Cash
+1325,2026-03-25,Oil,Automotive,327.28,6,Sao Paulo,PIX
+1326,2026-06-05,T-Shirt,Clothing,198.12,10,Porto Alegre,PIX
+1327,2024-11-09,Paint,Automotive,134.9,19,Brasilia,Debit Card
+1328,2023-05-14,Wardrobe,Furniture,78.93,19,Salvador,Debit Card
+1329,2023-05-17,Bed,Furniture,199.51,1,Fortaleza,Credit Card
+1330,2023-12-09,Pants,Clothing,417.82,16,Recife,Credit Card
+1331,2023-12-30,Toothpaste,Health,494.21,12,Sao Paulo,PIX
+1332,2024-08-09,Children,Books,229.42,8,Sao Paulo,Boleto
+1333,2025-11-30,Car,Toys,314.75,19,Rio de Janeiro,Cash
+1334,2024-04-17,Toothbrush,Beauty,283.99,13,Belo Horizonte,Cash
+1335,2023-07-09,Gym Wear,Sports,325.95,6,Recife,Cash
+1336,2025-03-23,T-Shirt,Clothing,501.48,1,Goiania,PIX
+1337,2025-11-05,Cap,Clothing,68.79,19,Fortaleza,PIX
+1338,2026-04-13,Car,Toys,364.93,3,Recife,Cash
+1339,2024-07-25,Filter,Automotive,399.84,3,Brasilia,PIX
+1340,2023-07-07,Vitamins,Health,483.7,7,Fortaleza,Cash
+1341,2025-04-15,Bicycle,Sports,250.6,11,Porto Alegre,PIX
+1342,2024-12-17,Shelf,Furniture,207.55,18,Curitiba,PIX
+1343,2024-07-13,Romance,Books,375.48,9,Belo Horizonte,PIX
+1344,2023-09-26,Perfume,Beauty,16.59,7,Goiania,Boleto
+1345,2026-05-03,Fiction,Books,126.63,16,Porto Alegre,Cash
+1346,2024-03-13,Brush,Automotive,258.5,17,Salvador,Boleto
+1347,2024-09-25,TV,Electronics,87.92,8,Curitiba,PIX
+1348,2024-07-03,Bicycle,Sports,430.74,20,Salvador,PIX
+1349,2024-05-26,Camera,Electronics,211.21,4,Brasilia,Debit Card
+1350,2026-01-08,Cap,Clothing,313.46,1,Salvador,Boleto
+1351,2023-09-06,Jacket,Clothing,254.44,4,Goiania,Cash
+1352,2026-03-02,Wardrobe,Furniture,263.74,1,Sao Paulo,Debit Card
+1353,2024-12-29,Shampoo,Beauty,303.55,9,Recife,Cash
+1354,2026-01-22,Beans,Food,133.91,8,Curitiba,Boleto
+1355,2026-05-21,Skateboard,Sports,491.15,11,Belo Horizonte,Credit Card
+1356,2024-11-16,Notebook,Electronics,212.2,9,Goiania,Credit Card
+1357,2024-01-22,Socks,Clothing,141.79,13,Salvador,Debit Card
+1358,2024-11-04,Bread,Food,434.56,16,Rio de Janeiro,PIX
+1359,2023-08-03,Action Figure,Toys,111.67,16,Salvador,Cash
+1360,2026-01-10,Dress,Clothing,332.45,6,Porto Alegre,Credit Card
+1361,2023-01-04,Non-Fiction,Books,428.43,2,Curitiba,Cash
+1362,2025-01-19,Children,Books,47.43,15,Fortaleza,Boleto
+1363,2026-05-05,Apple,Food,82.72,11,Curitiba,Cash
+1364,2024-12-11,Brush,Automotive,25.51,14,Sao Paulo,Boleto
+1365,2026-05-24,Gym Wear,Sports,366.61,6,Belo Horizonte,Debit Card
+1366,2024-06-16,Screwdriver,Automotive,299.97,14,Brasilia,Credit Card
+1367,2025-12-07,Volleyball,Sports,194.99,20,Recife,Debit Card
+1368,2026-03-06,Technical,Books,60.84,7,Belo Horizonte,Debit Card
+1369,2025-07-12,Volleyball,Sports,216.35,12,Fortaleza,PIX
+1370,2025-12-15,Jacket,Clothing,397.83,4,Rio de Janeiro,Credit Card
+1371,2023-07-23,Brush,Automotive,83.18,10,Sao Paulo,Boleto
+1372,2023-10-10,Tire,Automotive,324.32,14,Recife,Boleto
+1373,2025-01-24,Sneakers,Sports,417.16,19,Sao Paulo,Cash
+1374,2025-08-06,Shelf,Furniture,255.74,13,Sao Paulo,Boleto
+1375,2026-01-13,Keyboard,Electronics,256.1,5,Sao Paulo,PIX
+1376,2025-06-15,Oil,Automotive,492.3,17,Sao Paulo,Credit Card
+1377,2025-03-20,Soap,Beauty,296.15,17,Fortaleza,Boleto
+1378,2025-08-14,Dress,Clothing,346.83,15,Porto Alegre,Cash
+1379,2025-07-20,Gym Wear,Sports,32.4,19,Porto Alegre,Cash
+1380,2024-03-05,Banana,Food,75.33,7,Recife,Credit Card
+1381,2023-01-04,Tire,Automotive,500.17,10,Porto Alegre,Cash
+1382,2024-05-01,Self-Help,Books,371.04,15,Fortaleza,PIX
+1383,2023-08-10,Oil,Automotive,384.18,3,Goiania,Debit Card
+1384,2023-04-23,Shampoo,Beauty,187.89,16,Porto Alegre,Cash
+1385,2023-02-06,Tablet,Electronics,167.53,18,Goiania,PIX
+1386,2026-04-11,Filter,Automotive,449.51,13,Fortaleza,Boleto
+1387,2025-03-05,Vitamins,Health,244.07,6,Curitiba,PIX
+1388,2023-09-07,Tablet,Electronics,118.73,20,Recife,PIX
+1389,2026-02-14,Action Figure,Toys,256.12,18,Sao Paulo,Credit Card
+1390,2024-08-28,Soccer Ball,Sports,117.1,13,Recife,PIX
+1391,2025-09-28,Chair,Furniture,97.66,4,Curitiba,PIX
+1392,2023-03-22,Meat,Food,250.66,5,Goiania,Credit Card
+1393,2023-12-18,Painkiller,Health,41.52,6,Salvador,Cash
+1394,2023-01-10,Banana,Food,266.28,3,Salvador,Boleto
+1395,2024-01-25,Cap,Clothing,412.65,1,Goiania,PIX
+1396,2025-02-07,Toothpaste,Health,439.88,8,Salvador,Boleto
+1397,2024-05-15,Makeup,Beauty,110.63,15,Rio de Janeiro,Boleto
+1398,2024-03-08,Doll,Toys,39.96,20,Rio de Janeiro,PIX
+1399,2026-01-06,Conditioner,Beauty,396.97,7,Recife,Cash
+1400,2025-03-08,Bread,Food,232.97,12,Goiania,Debit Card
+1401,2025-10-19,Soccer Ball,Sports,252.07,9,Goiania,Cash
+1402,2025-03-25,Painkiller,Health,236.98,2,Brasilia,Credit Card
+1403,2023-05-23,Mouse,Electronics,181.21,1,Porto Alegre,Debit Card
+1404,2024-03-24,Jacket,Clothing,135.03,3,Sao Paulo,PIX
+1405,2024-08-09,Banana,Food,136.72,19,Brasilia,Debit Card
+1406,2024-02-10,Keyboard,Electronics,80.55,19,Porto Alegre,Debit Card
+1407,2026-06-13,Banana,Food,482.24,2,Fortaleza,Credit Card
+1408,2025-11-21,Painkiller,Health,329.68,20,Goiania,Boleto
+1409,2024-05-26,Children,Books,349.14,4,Fortaleza,Credit Card
+1410,2023-01-29,Vitamins,Health,432.49,15,Brasilia,Debit Card
+1411,2023-08-12,Bicycle,Sports,447.87,1,Salvador,PIX
+1412,2025-04-09,Fiction,Books,470.53,20,Recife,Debit Card
+1413,2026-06-03,Soap,Beauty,327.2,5,Fortaleza,PIX
+1414,2026-01-03,Screwdriver,Automotive,353.66,13,Sao Paulo,Cash
+1415,2024-01-22,Conditioner,Beauty,179.17,18,Curitiba,Boleto
+1416,2026-03-22,Milk,Food,376.58,8,Sao Paulo,Cash
+1417,2023-05-07,Action Figure,Toys,221.83,12,Goiania,Debit Card
+1418,2024-06-04,Cap,Clothing,309.79,19,Salvador,Credit Card
+1419,2023-08-01,Oil,Automotive,158.28,15,Belo Horizonte,Boleto
+1420,2024-10-02,Bicycle,Sports,50.81,9,Sao Paulo,Debit Card
+1421,2023-02-23,T-Shirt,Clothing,381.04,1,Recife,PIX
+1422,2024-11-19,Action Figure,Toys,266.33,16,Brasilia,PIX
+1423,2024-10-15,Toothpaste,Health,507.46,6,Rio de Janeiro,Credit Card
+1424,2023-01-12,Bread,Food,386,10,Salvador,Credit Card
+1425,2025-06-06,Shampoo,Beauty,462.52,7,Belo Horizonte,Cash
+1426,2024-04-25,Car,Toys,221.88,20,Belo Horizonte,Cash
+1427,2025-08-26,Table,Furniture,284.39,12,Goiania,Credit Card
+1428,2025-05-07,Bread,Food,102.42,13,Salvador,Boleto
+1429,2025-08-11,Tablet,Electronics,155.09,3,Brasilia,Credit Card
+1430,2025-02-06,Smartphone,Electronics,396.45,4,Belo Horizonte,PIX
+1431,2025-06-25,Gym Wear,Sports,26.9,20,Brasilia,Credit Card
+1432,2025-07-12,Socks,Clothing,187.77,12,Rio de Janeiro,Credit Card
+1433,2025-11-18,Conditioner,Beauty,31.05,15,Goiania,Boleto
+1434,2024-12-27,Shoes,Clothing,108.18,1,Goiania,PIX
+1435,2023-10-28,Socks,Clothing,449.3,13,Rio de Janeiro,PIX
+1436,2023-08-28,Video Game,Toys,114.57,17,Fortaleza,Boleto
+1437,2023-04-17,Soap,Beauty,440.89,4,Fortaleza,Boleto
+1438,2023-03-14,Mouthwash,Health,100.14,15,Goiania,Credit Card
+1439,2024-10-01,Painkiller,Health,437.13,8,Porto Alegre,PIX
+1440,2025-09-05,Brush,Automotive,223.04,5,Brasilia,PIX
+1441,2026-03-20,Screwdriver,Automotive,106.17,18,Recife,Debit Card
+1442,2025-02-07,Ball,Toys,327.65,20,Fortaleza,PIX
+1443,2025-01-27,Volleyball,Sports,266.8,17,Sao Paulo,Debit Card
+1444,2024-03-31,Fiction,Books,295.9,16,Goiania,Boleto
+1445,2023-09-02,Desk,Furniture,498.34,16,Belo Horizonte,Cash
+1446,2024-12-03,Painkiller,Health,217.66,3,Fortaleza,Cash
+1447,2024-09-27,Gym Wear,Sports,176.76,8,Sao Paulo,Cash
+1448,2025-04-16,Gym Wear,Sports,504.33,15,Porto Alegre,PIX
+1449,2023-04-11,Cream,Beauty,385.31,12,Curitiba,Credit Card
+1450,2026-01-02,Headphones,Electronics,380.78,7,Goiania,Cash
+1451,2023-01-30,Children,Books,405.62,18,Fortaleza,Credit Card
+1452,2026-01-28,Apple,Food,409.57,9,Rio de Janeiro,Credit Card
+1453,2025-01-02,Puzzle,Toys,174.34,1,Curitiba,Cash
+1454,2026-04-26,Mouthwash,Health,354.12,3,Rio de Janeiro,Boleto
+1455,2023-04-22,Banana,Food,44.22,7,Porto Alegre,Cash
+1456,2023-10-04,Smartphone,Electronics,329.09,15,Porto Alegre,Cash
+1457,2025-05-11,Toothbrush,Beauty,394.66,3,Fortaleza,Boleto
+1458,2023-11-16,Action Figure,Toys,305.37,11,Curitiba,Cash
+1459,2024-10-26,Car,Toys,305.13,15,Goiania,Boleto
+1460,2025-05-03,Rice,Food,232.12,6,Sao Paulo,Credit Card
+1461,2024-03-22,Ball,Toys,84.03,11,Porto Alegre,Cash
+1462,2024-07-04,Notebook,Electronics,110.48,3,Rio de Janeiro,Credit Card
+1463,2024-03-20,Sneakers,Sports,227.65,1,Sao Paulo,Boleto
+1464,2024-08-11,Apple,Food,191.71,11,Fortaleza,Boleto
+1465,2024-12-03,Volleyball,Sports,350.48,19,Rio de Janeiro,Debit Card
+1466,2025-11-27,Soap,Beauty,402.52,18,Belo Horizonte,Cash
+1467,2024-11-05,History,Books,501.15,11,Porto Alegre,Cash
+1468,2024-07-05,Mouthwash,Health,169.4,8,Goiania,PIX
+1469,2024-01-11,Dress,Clothing,181.45,12,Rio de Janeiro,Credit Card
+1470,2026-06-09,History,Books,298.86,4,Rio de Janeiro,PIX
+1471,2024-01-29,Painkiller,Health,360.47,14,Fortaleza,Debit Card
+1472,2023-08-19,Cap,Clothing,202.16,11,Recife,Cash
+1473,2026-06-05,Keyboard,Electronics,391.59,17,Porto Alegre,PIX
+1474,2024-11-17,Toothpaste,Health,288.87,8,Sao Paulo,Cash
+1475,2025-10-19,Lego,Toys,445.09,12,Salvador,Boleto
+1476,2024-03-19,Mouthwash,Health,268.52,18,Salvador,Debit Card
+1477,2024-04-27,Bed,Furniture,296.16,2,Brasilia,Cash
+1478,2026-02-26,Thermometer,Health,157.29,8,Brasilia,Cash
+1479,2024-03-25,Toothbrush,Beauty,418.56,1,Sao Paulo,Debit Card
+1480,2025-01-12,Technical,Books,292.27,7,Recife,Boleto
+1481,2024-08-17,Shampoo,Beauty,344.96,14,Curitiba,Cash
+1482,2024-04-03,Banana,Food,165.86,19,Rio de Janeiro,Boleto
+1483,2023-05-08,Smartphone,Electronics,507.47,2,Goiania,Credit Card
+1484,2024-02-21,Soap,Beauty,15.97,4,Sao Paulo,Credit Card
+1485,2023-11-28,Desk,Furniture,195.57,17,Sao Paulo,Cash
+1486,2024-12-08,Romance,Books,193.2,2,Sao Paulo,Cash
+1487,2026-02-22,Cream,Beauty,150.02,18,Belo Horizonte,PIX
+1488,2024-03-01,Oil,Automotive,159.89,1,Rio de Janeiro,Credit Card
+1489,2025-11-28,Paint,Automotive,216.46,10,Sao Paulo,PIX
+1490,2024-10-31,Children,Books,126.54,8,Recife,Cash
+1491,2024-11-28,Brush,Automotive,448.57,11,Belo Horizonte,Debit Card
+1492,2026-02-28,Sofa,Furniture,267.66,2,Salvador,Credit Card
+1493,2025-07-24,Gym Wear,Sports,396.75,14,Fortaleza,Boleto
+1494,2025-11-05,Pants,Clothing,179.14,3,Salvador,Cash
+1495,2026-03-29,Bandage,Health,91.38,12,Fortaleza,Credit Card
+1496,2024-02-15,TV,Electronics,272.19,8,Fortaleza,Cash
+1497,2025-01-01,Conditioner,Beauty,434.01,2,Rio de Janeiro,Debit Card
+1498,2026-04-24,Mouthwash,Health,317.95,13,Salvador,Debit Card
+1499,2025-12-23,Perfume,Beauty,254.28,8,Salvador,PIX
+1500,2024-07-23,Tablet,Electronics,430.57,11,Sao Paulo,Debit Card
+1501,2024-04-15,Chair,Furniture,242.95,20,Rio de Janeiro,Cash
+1502,2025-11-30,Painkiller,Health,48.72,12,Fortaleza,Boleto
+1503,2024-09-09,Soap,Beauty,381.93,5,Sao Paulo,Cash
+1504,2026-04-04,Perfume,Beauty,485.69,5,Belo Horizonte,PIX
+1505,2023-04-14,Smartphone,Electronics,81.23,8,Goiania,Debit Card
+1506,2025-03-13,Tire,Automotive,356.54,10,Fortaleza,Cash
+1507,2024-08-24,Bandage,Health,296.55,14,Salvador,Cash
+1508,2025-07-08,Children,Books,332.92,5,Rio de Janeiro,Credit Card
+1509,2025-06-01,Bandage,Health,139.56,3,Recife,PIX
+1510,2025-02-08,Meat,Food,423.23,2,Porto Alegre,Debit Card
+1511,2023-05-22,Car,Toys,359.2,8,Salvador,Cash
+1512,2023-10-18,Car,Toys,217.27,20,Salvador,PIX
+1513,2023-12-30,Meat,Food,425.87,19,Belo Horizonte,Boleto
+1514,2025-09-24,Chair,Furniture,311.82,10,Recife,PIX
+1515,2024-01-05,Technical,Books,482.23,18,Brasilia,Debit Card
+1516,2024-08-31,Bread,Food,79.55,6,Belo Horizonte,Credit Card
+1517,2026-01-04,Bread,Food,446.06,1,Rio de Janeiro,Debit Card
+1518,2023-06-19,Notebook,Electronics,11.43,14,Recife,Credit Card
+1519,2025-11-17,Jacket,Clothing,14.15,2,Brasilia,Boleto
+1520,2024-11-23,Socks,Clothing,374.31,18,Brasilia,Cash
+1521,2024-08-19,Painkiller,Health,55.63,1,Belo Horizonte,Credit Card
+1522,2025-09-08,Conditioner,Beauty,387.97,7,Rio de Janeiro,Credit Card
+1523,2026-06-08,Mouthwash,Health,77.68,5,Goiania,Debit Card
+1524,2023-08-11,Makeup,Beauty,144.43,13,Recife,PIX
+1525,2025-02-21,Tablet,Electronics,129.5,4,Recife,Debit Card
+1526,2026-03-21,Notebook,Electronics,78.62,9,Brasilia,Debit Card
+1527,2024-11-09,Table,Furniture,360.91,19,Brasilia,Debit Card
+1528,2023-05-07,Smartphone,Electronics,509.9,10,Recife,Cash
+1529,2025-04-21,Wardrobe,Furniture,327.72,9,Goiania,Debit Card
+1530,2023-11-25,Screwdriver,Automotive,355.69,8,Belo Horizonte,PIX
+1531,2024-04-14,Smartphone,Electronics,154,20,Sao Paulo,PIX
+1532,2024-04-08,Lego,Toys,260.7,16,Goiania,PIX
+1533,2025-04-06,Cheese,Food,342.63,7,Curitiba,Boleto
+1534,2025-05-20,Paint,Automotive,164.29,2,Goiania,Debit Card
+1535,2023-05-11,History,Books,212.27,14,Sao Paulo,Boleto
+1536,2024-12-11,Bicycle,Sports,204.4,9,Curitiba,Boleto
+1537,2025-11-07,Shampoo,Beauty,424.3,3,Sao Paulo,Debit Card
+1538,2026-06-03,Sneakers,Sports,76.47,11,Belo Horizonte,PIX
+1539,2024-08-29,Tire,Automotive,468.97,13,Salvador,Boleto
+1540,2025-02-28,Cream,Beauty,479.86,10,Salvador,Cash
+1541,2025-08-16,Doll,Toys,259.9,5,Salvador,Debit Card
+1542,2023-01-02,Socks,Clothing,429.04,5,Sao Paulo,Debit Card
+1543,2023-08-19,Brush,Automotive,505.88,16,Salvador,Cash
+1544,2025-12-06,Fiction,Books,205.99,5,Salvador,Cash
+1545,2023-05-21,Action Figure,Toys,397.27,5,Salvador,Cash
+1546,2024-05-18,Perfume,Beauty,368.29,15,Goiania,Boleto
+1547,2023-10-15,Action Figure,Toys,380.8,14,Rio de Janeiro,Cash
+1548,2026-03-04,Keyboard,Electronics,293.78,14,Belo Horizonte,PIX
+1549,2026-03-13,Shelf,Furniture,441.84,15,Brasilia,PIX
+1550,2023-08-23,Meat,Food,309.71,7,Sao Paulo,Credit Card
+1551,2025-09-28,Chair,Furniture,304.44,9,Sao Paulo,Cash
+1552,2026-03-28,Socks,Clothing,261.65,5,Fortaleza,Credit Card
+1553,2023-10-19,Perfume,Beauty,236.8,19,Recife,PIX
+1554,2025-11-23,Keyboard,Electronics,214.21,9,Fortaleza,PIX
+1555,2025-01-30,Notebook,Electronics,405.93,7,Salvador,Boleto
+1556,2024-03-08,Non-Fiction,Books,35.04,1,Porto Alegre,Cash
+1557,2024-05-23,Action Figure,Toys,417.48,16,Recife,PIX
+1558,2026-05-26,Socks,Clothing,288.39,12,Brasilia,PIX
+1559,2025-05-19,Notebook,Electronics,146.62,1,Rio de Janeiro,Cash
+1560,2025-03-25,Milk,Food,455.75,18,Belo Horizonte,Boleto
+1561,2024-07-21,Sofa,Furniture,336.55,8,Goiania,PIX
+1562,2023-04-22,Perfume,Beauty,69.7,6,Sao Paulo,PIX
+1563,2023-07-13,Chair,Furniture,462.19,2,Rio de Janeiro,Debit Card
+1564,2024-04-28,Notebook,Electronics,345.87,10,Rio de Janeiro,Credit Card
+1565,2025-01-21,Tablet,Electronics,485.64,1,Salvador,Debit Card
+1566,2026-01-16,Soap,Beauty,45.96,17,Curitiba,PIX
+1567,2024-08-20,Bandage,Health,238.3,2,Goiania,Credit Card
+1568,2025-04-11,Soap,Beauty,429.79,6,Belo Horizonte,Debit Card
+1569,2023-09-04,Skateboard,Sports,508.51,1,Belo Horizonte,Debit Card
+1570,2024-08-31,Sneakers,Sports,219.02,2,Porto Alegre,Cash
+1571,2025-03-29,Video Game,Toys,105.07,2,Curitiba,Credit Card
+1572,2023-06-27,TV,Electronics,370.63,17,Fortaleza,Credit Card
+1573,2026-01-26,Paint,Automotive,418.57,14,Fortaleza,PIX
+1574,2023-08-16,TV,Electronics,239.27,4,Porto Alegre,Credit Card
+1575,2025-02-03,Romance,Books,378.71,9,Salvador,Credit Card
+1576,2023-03-30,Rice,Food,153.9,1,Recife,Cash
+1577,2025-11-19,Fiction,Books,140.14,17,Fortaleza,Boleto
+1578,2026-05-20,Skateboard,Sports,407.24,1,Goiania,Cash
+1579,2023-10-13,Cap,Clothing,92.52,19,Fortaleza,Cash
+1580,2026-05-23,Smartphone,Electronics,331.25,10,Brasilia,PIX
+1581,2024-11-17,Technical,Books,431.27,10,Fortaleza,Debit Card
+1582,2026-03-18,Bread,Food,106.44,15,Brasilia,Debit Card
+1583,2023-12-24,Gym Wear,Sports,360.49,10,Curitiba,Debit Card
+1584,2023-04-22,Pants,Clothing,75.6,20,Rio de Janeiro,Boleto
+1585,2025-05-03,Apple,Food,51.81,20,Sao Paulo,Credit Card
+1586,2024-08-19,Romance,Books,87.51,19,Porto Alegre,Cash
+1587,2023-10-25,Non-Fiction,Books,330.64,3,Brasilia,Boleto
+1588,2023-11-30,Puzzle,Toys,216.55,3,Rio de Janeiro,Cash
+1589,2025-09-27,Video Game,Toys,408.33,8,Curitiba,Credit Card
+1590,2024-04-26,Mouse,Electronics,38.3,9,Recife,Boleto
+1591,2023-01-29,Notebook,Electronics,249.44,16,Salvador,Debit Card
+1592,2025-02-12,Beans,Food,317.48,10,Porto Alegre,Boleto
+1593,2025-06-03,Lego,Toys,322.02,12,Rio de Janeiro,PIX
+1594,2023-10-12,Shampoo,Beauty,322.29,12,Belo Horizonte,Boleto
+1595,2024-07-25,Volleyball,Sports,417.25,10,Rio de Janeiro,Boleto
+1596,2026-04-02,Desk,Furniture,474.06,17,Salvador,Credit Card
+1597,2024-11-30,Sofa,Furniture,178.34,15,Curitiba,Debit Card
+1598,2025-02-01,Soccer Ball,Sports,111.67,17,Goiania,Cash
+1599,2024-01-25,Headphones,Electronics,465.49,5,Fortaleza,PIX
+1600,2023-10-08,History,Books,499.5,8,Porto Alegre,PIX
+1601,2023-02-28,Video Game,Toys,178.5,17,Belo Horizonte,PIX
+1602,2026-06-05,Bandage,Health,370.42,5,Porto Alegre,Debit Card
+1603,2025-12-01,Oil,Automotive,319.52,20,Brasilia,Debit Card
+1604,2024-08-11,Gym Wear,Sports,425.17,16,Recife,Boleto
+1605,2024-05-16,Technical,Books,243.28,7,Sao Paulo,Cash
+1606,2026-01-23,Wardrobe,Furniture,433.31,11,Brasilia,PIX
+1607,2025-03-21,Lego,Toys,275.71,20,Recife,Boleto
+1608,2024-12-08,Bulb,Automotive,323.02,3,Sao Paulo,Cash
+1609,2024-02-06,Conditioner,Beauty,371.69,10,Curitiba,Debit Card
+1610,2026-02-14,Toothpaste,Health,241.17,10,Porto Alegre,Cash
+1611,2024-03-30,Socks,Clothing,418.1,5,Sao Paulo,PIX
+1612,2025-06-15,Puzzle,Toys,329.5,20,Recife,PIX
+1613,2025-01-15,Bulb,Automotive,156.23,18,Goiania,PIX
+1614,2024-10-03,Vitamins,Health,238.43,4,Recife,Debit Card
+1615,2023-03-20,Sofa,Furniture,416.64,16,Brasilia,Cash
+1616,2025-11-17,Apple,Food,96.15,4,Brasilia,Credit Card
+1617,2023-06-03,Bicycle,Sports,364.63,4,Goiania,Cash
+1618,2023-07-08,Brush,Automotive,161.6,13,Goiania,Credit Card
+1619,2024-03-28,Bulb,Automotive,106.93,12,Recife,Boleto
+1620,2025-05-04,Tablet,Electronics,68.63,3,Sao Paulo,Cash
+1621,2023-10-06,Non-Fiction,Books,342.21,13,Fortaleza,Boleto
+1622,2025-11-14,Volleyball,Sports,80.87,11,Rio de Janeiro,Boleto
+1623,2025-12-04,Action Figure,Toys,159.14,10,Porto Alegre,Cash
+1624,2023-04-05,Notebook,Electronics,504.59,16,Salvador,Cash
+1625,2026-05-31,Table,Furniture,498.01,9,Goiania,Cash
+1626,2025-05-27,Video Game,Toys,325.64,20,Fortaleza,PIX
+1627,2024-07-02,Mouthwash,Health,441.5,3,Belo Horizonte,Debit Card
+1628,2026-05-31,Bicycle,Sports,104.43,10,Belo Horizonte,Cash
+1629,2024-10-17,Screwdriver,Automotive,432.04,16,Salvador,PIX
+1630,2024-06-30,Soccer Ball,Sports,18.68,17,Recife,Debit Card
+1631,2024-05-21,Cap,Clothing,428.28,9,Porto Alegre,Debit Card
+1632,2026-05-30,Puzzle,Toys,208.87,3,Goiania,Cash
+1633,2025-10-20,Mouse,Electronics,417.91,5,Goiania,Boleto
+1634,2024-06-05,Paint,Automotive,501.09,14,Curitiba,Boleto
+1635,2025-09-03,Camera,Electronics,303.15,1,Recife,Cash
+1636,2023-11-29,Shampoo,Beauty,37.77,4,Salvador,PIX
+1637,2025-06-15,Volleyball,Sports,307.15,19,Recife,Debit Card
+1638,2025-05-18,Non-Fiction,Books,310.26,9,Salvador,PIX
+1639,2023-12-23,Dress,Clothing,465.12,15,Porto Alegre,Boleto
+1640,2023-07-18,Tablet,Electronics,170.09,6,Sao Paulo,Cash
+1641,2025-09-28,Pants,Clothing,324.45,11,Rio de Janeiro,Credit Card
+1642,2023-11-10,Keyboard,Electronics,75.12,17,Curitiba,Cash
+1643,2026-05-05,Smartphone,Electronics,49.93,16,Sao Paulo,Boleto
+1644,2025-01-09,Jacket,Clothing,365.24,12,Salvador,Debit Card
+1645,2024-01-08,Banana,Food,76.38,14,Salvador,Boleto
+1646,2025-10-01,Puzzle,Toys,89.73,20,Fortaleza,Debit Card
+1647,2024-10-05,Jacket,Clothing,502.9,1,Salvador,PIX
+1648,2025-12-24,Rice,Food,124.49,3,Sao Paulo,Cash
+1649,2024-06-08,Makeup,Beauty,335.45,7,Goiania,Cash
+1650,2024-03-16,Vitamins,Health,214.85,13,Brasilia,Boleto
+1651,2025-08-12,Soap,Beauty,22.06,16,Curitiba,Credit Card
+1652,2023-06-11,Puzzle,Toys,18.74,12,Goiania,Boleto
+1653,2026-05-06,Apple,Food,25.91,6,Salvador,Cash
+1654,2023-10-31,Shelf,Furniture,396.44,10,Porto Alegre,Boleto
+1655,2024-04-11,Chair,Furniture,483.47,15,Salvador,PIX
+1656,2024-05-22,Lego,Toys,461.16,5,Porto Alegre,Cash
+1657,2025-05-19,Cheese,Food,370.51,8,Sao Paulo,Cash
+1658,2023-05-21,Headphones,Electronics,248.68,13,Curitiba,Boleto
+1659,2025-03-03,Action Figure,Toys,117.32,19,Sao Paulo,Credit Card
+1660,2026-05-21,Notebook,Electronics,311.09,18,Belo Horizonte,PIX
+1661,2023-10-21,Shampoo,Beauty,147.78,20,Recife,PIX
+1662,2026-04-11,Romance,Books,449.37,11,Belo Horizonte,Cash
+1663,2023-04-29,Toothbrush,Beauty,120.87,18,Porto Alegre,Cash
+1664,2026-02-17,Car,Toys,463.69,15,Fortaleza,PIX
+1665,2026-02-06,Video Game,Toys,454.02,19,Brasilia,Debit Card
+1666,2025-04-23,Pants,Clothing,110.66,6,Salvador,Debit Card
+1667,2024-11-02,Tire,Automotive,152.43,11,Recife,PIX
+1668,2025-10-09,Bed,Furniture,374.66,9,Porto Alegre,Cash
+1669,2025-06-29,Table,Furniture,477.34,12,Porto Alegre,PIX
+1670,2023-12-17,Puzzle,Toys,258.11,11,Curitiba,PIX
+1671,2024-08-29,Sneakers,Sports,357.34,6,Porto Alegre,Credit Card
+1672,2023-05-07,Shelf,Furniture,200.17,18,Porto Alegre,Debit Card
+1673,2024-02-14,Dress,Clothing,467.55,3,Curitiba,Debit Card
+1674,2025-07-10,Cheese,Food,254.35,13,Goiania,Debit Card
+1675,2026-03-15,Romance,Books,128.26,17,Belo Horizonte,Debit Card
+1676,2025-03-30,Car,Toys,420.94,17,Goiania,Cash
+1677,2026-02-11,Milk,Food,458.11,1,Recife,Cash
+1678,2026-01-29,Jacket,Clothing,362.46,1,Recife,Boleto
+1679,2025-08-01,Paint,Automotive,49.73,18,Rio de Janeiro,Boleto
+1680,2023-06-12,Pants,Clothing,397.78,3,Recife,Boleto
+1681,2026-04-01,Action Figure,Toys,49.62,10,Salvador,PIX
+1682,2024-10-06,Non-Fiction,Books,405.26,8,Sao Paulo,Debit Card
+1683,2023-07-21,Perfume,Beauty,72.52,8,Goiania,Cash
+1684,2025-03-26,Mouse,Electronics,425.29,4,Brasilia,PIX
+1685,2026-06-14,Bed,Furniture,18.41,10,Fortaleza,Boleto
+1686,2024-09-16,Painkiller,Health,326.82,3,Sao Paulo,PIX
+1687,2026-04-14,Socks,Clothing,287.82,4,Brasilia,Cash
+1688,2023-08-15,Self-Help,Books,418.3,7,Recife,PIX
+1689,2023-11-12,Action Figure,Toys,366.74,4,Salvador,Debit Card
+1690,2025-07-15,Sofa,Furniture,133.84,19,Fortaleza,Boleto
+1691,2023-10-09,Smartphone,Electronics,24.64,17,Salvador,Credit Card
+1692,2024-11-26,Bulb,Automotive,288.19,20,Goiania,PIX
+1693,2025-06-24,Skateboard,Sports,173.41,5,Recife,Boleto
+1694,2023-11-01,History,Books,296.89,12,Goiania,Credit Card
+1695,2025-02-17,Action Figure,Toys,304.25,15,Recife,Cash
+1696,2025-03-10,Toothpaste,Health,144.46,12,Brasilia,PIX
+1697,2025-10-30,Brush,Automotive,32.33,12,Fortaleza,Cash
+1698,2023-01-16,Paint,Automotive,300.75,18,Sao Paulo,Boleto
+1699,2024-02-28,Headphones,Electronics,267.47,5,Brasilia,Cash
+1700,2026-06-08,Action Figure,Toys,308.84,1,Brasilia,PIX
+1701,2024-07-10,Puzzle,Toys,317.04,20,Belo Horizonte,Credit Card
+1702,2025-01-16,Table,Furniture,239.6,5,Curitiba,PIX
+1703,2023-11-26,Volleyball,Sports,306.49,12,Sao Paulo,Credit Card
+1704,2023-06-22,Skateboard,Sports,105.16,10,Porto Alegre,Debit Card
+1705,2026-04-27,Socks,Clothing,158.85,14,Salvador,Boleto
+1706,2024-09-14,Perfume,Beauty,154.41,5,Brasilia,Cash
+1707,2023-03-31,Dress,Clothing,31.79,11,Belo Horizonte,Debit Card
+1708,2023-03-29,Video Game,Toys,265.49,7,Rio de Janeiro,Credit Card
+1709,2026-01-17,Technical,Books,441.32,16,Recife,Credit Card
+1710,2024-06-13,Makeup,Beauty,469.62,11,Porto Alegre,Boleto
+1711,2023-10-17,Bed,Furniture,380.84,7,Fortaleza,Debit Card
+1712,2025-01-11,Mouthwash,Health,92.99,9,Porto Alegre,Credit Card
+1713,2023-05-29,Fiction,Books,156.88,13,Goiania,Debit Card
+1714,2026-01-02,Wardrobe,Furniture,481.77,15,Salvador,Cash
+1715,2025-10-28,Paint,Automotive,54.84,19,Curitiba,Credit Card
+1716,2025-08-19,Makeup,Beauty,253.7,6,Recife,Credit Card
+1717,2024-05-31,Pants,Clothing,353.42,20,Fortaleza,Credit Card
+1718,2025-03-20,Gym Wear,Sports,293.22,8,Sao Paulo,PIX
+1719,2024-04-26,Action Figure,Toys,251.66,20,Salvador,Debit Card
+1720,2024-11-04,Romance,Books,197.75,16,Fortaleza,Cash
+1721,2024-03-12,Headphones,Electronics,23.1,14,Salvador,PIX
+1722,2024-07-28,Brush,Automotive,338.47,18,Salvador,Cash
+1723,2024-09-15,Makeup,Beauty,173.37,20,Brasilia,Cash
+1724,2026-05-05,Painkiller,Health,161.87,17,Belo Horizonte,Credit Card
+1725,2023-08-03,Children,Books,350.74,4,Porto Alegre,Debit Card
+1726,2025-06-04,Headphones,Electronics,384.86,15,Porto Alegre,Debit Card
+1727,2025-05-11,Self-Help,Books,363.15,13,Porto Alegre,Cash
+1728,2026-01-07,History,Books,106.1,7,Recife,PIX
+1729,2025-07-14,Toothpaste,Health,17.92,1,Brasilia,PIX
+1730,2023-07-24,Makeup,Beauty,455.51,12,Brasilia,Credit Card
+1731,2023-05-24,T-Shirt,Clothing,100.66,18,Sao Paulo,Debit Card
+1732,2025-09-15,Banana,Food,405.24,13,Fortaleza,Debit Card
+1733,2026-02-23,Socks,Clothing,336.19,17,Fortaleza,Credit Card
+1734,2025-06-12,Notebook,Electronics,130.3,8,Fortaleza,Boleto
+1735,2026-06-12,TV,Electronics,25.57,16,Salvador,Cash
+1736,2025-03-15,Shoes,Clothing,490.97,13,Porto Alegre,PIX
+1737,2024-10-26,Desk,Furniture,417.42,20,Brasilia,Debit Card
+1738,2023-05-04,Socks,Clothing,333.69,20,Salvador,Boleto
+1739,2026-06-05,Skateboard,Sports,425.01,19,Recife,Debit Card
+1740,2025-09-15,Soccer Ball,Sports,313.74,17,Recife,Debit Card
+1741,2025-05-08,Table,Furniture,195.66,16,Rio de Janeiro,PIX
+1742,2023-09-01,Filter,Automotive,360.38,14,Belo Horizonte,Cash
+1743,2023-07-04,Doll,Toys,386.41,4,Sao Paulo,PIX
+1744,2024-10-04,Paint,Automotive,458.25,6,Fortaleza,Boleto
+1745,2023-07-03,Soccer Ball,Sports,11.39,2,Brasilia,Debit Card
+1746,2023-09-15,Toothbrush,Beauty,89.8,15,Rio de Janeiro,Boleto
+1747,2025-02-01,Milk,Food,240.6,8,Rio de Janeiro,Credit Card
+1748,2023-04-06,Children,Books,242.96,1,Brasilia,PIX
+1749,2025-03-24,Banana,Food,394.92,1,Fortaleza,PIX
+1750,2025-04-12,Children,Books,57.84,4,Fortaleza,Debit Card
+1751,2023-06-02,Painkiller,Health,95.22,12,Brasilia,Debit Card
+1752,2023-04-22,Fiction,Books,122.01,8,Sao Paulo,PIX
+1753,2023-09-19,Beans,Food,309.76,1,Brasilia,Credit Card
+1754,2023-09-12,Mouthwash,Health,434.98,13,Sao Paulo,PIX
+1755,2024-07-29,Keyboard,Electronics,100.78,11,Porto Alegre,Cash
+1756,2026-01-24,Gym Wear,Sports,52.54,5,Brasilia,PIX
+1757,2023-08-19,Mouthwash,Health,471.66,15,Porto Alegre,Cash
+1758,2025-02-25,Vitamins,Health,358.35,16,Porto Alegre,Boleto
+1759,2025-08-14,Tire,Automotive,173.96,6,Salvador,Cash
+1760,2026-01-18,Toothbrush,Beauty,94.89,1,Recife,Boleto
+1761,2024-10-29,Non-Fiction,Books,463.36,3,Curitiba,PIX
+1762,2025-02-19,Filter,Automotive,319.91,3,Salvador,Credit Card
+1763,2023-11-25,Painkiller,Health,477.77,16,Rio de Janeiro,Credit Card
+1764,2023-07-30,Ball,Toys,374.42,9,Goiania,PIX
+1765,2025-01-31,T-Shirt,Clothing,347.48,17,Porto Alegre,Debit Card
+1766,2024-05-31,Toothbrush,Beauty,420.2,4,Recife,Credit Card
+1767,2025-06-07,Paint,Automotive,143.4,6,Rio de Janeiro,Credit Card
+1768,2026-06-09,Sofa,Furniture,32.65,6,Salvador,Boleto
+1769,2025-06-06,Notebook,Electronics,455.11,5,Fortaleza,Boleto
+1770,2023-02-20,Car,Toys,108.35,13,Brasilia,Boleto
+1771,2023-06-10,Soap,Beauty,447.39,5,Brasilia,PIX
+1772,2023-08-28,Dress,Clothing,157.71,17,Belo Horizonte,Cash
+1773,2024-06-05,Bicycle,Sports,484.25,12,Rio de Janeiro,Cash
+1774,2023-02-23,Toothpaste,Health,141.29,19,Curitiba,Cash
+1775,2024-08-22,Doll,Toys,75.91,17,Brasilia,PIX
+1776,2024-02-07,Paint,Automotive,128.31,11,Porto Alegre,Cash
+1777,2026-04-23,T-Shirt,Clothing,107.91,12,Salvador,Debit Card
+1778,2023-03-07,T-Shirt,Clothing,340.05,5,Fortaleza,Cash
+1779,2025-06-27,Shampoo,Beauty,126.85,15,Porto Alegre,Cash
+1780,2023-08-01,Tablet,Electronics,401.58,14,Curitiba,Debit Card
+1781,2024-02-10,Jacket,Clothing,232.86,18,Recife,Boleto
+1782,2024-12-09,Filter,Automotive,476.08,17,Recife,Cash
+1783,2025-08-12,Camera,Electronics,63.57,18,Curitiba,Credit Card
+1784,2026-03-15,Gym Wear,Sports,54.11,9,Salvador,Cash
+1785,2026-03-18,Bulb,Automotive,397.03,4,Recife,PIX
+1786,2025-09-11,Tire,Automotive,420.44,2,Sao Paulo,Debit Card
+1787,2023-08-24,Jacket,Clothing,45.62,16,Porto Alegre,Boleto
+1788,2023-01-26,Shampoo,Beauty,139.08,9,Fortaleza,Boleto
+1789,2023-10-16,Mouthwash,Health,396.07,8,Fortaleza,PIX
+1790,2025-01-11,Meat,Food,193.55,3,Salvador,Cash
+1791,2026-05-29,Wardrobe,Furniture,75.38,19,Rio de Janeiro,Boleto
+1792,2023-07-24,Children,Books,441.99,9,Belo Horizonte,PIX
+1793,2025-03-15,Fiction,Books,459.18,13,Curitiba,Boleto
+1794,2025-01-10,Tire,Automotive,43.69,12,Rio de Janeiro,Cash
+1795,2024-06-03,Children,Books,93.73,13,Rio de Janeiro,Credit Card
+1796,2025-10-30,Screwdriver,Automotive,413.73,4,Brasilia,Cash
+1797,2024-03-21,Vitamins,Health,27.77,20,Goiania,Boleto
+1798,2025-05-07,Painkiller,Health,52.97,3,Goiania,Boleto
+1799,2024-06-17,Shoes,Clothing,376.87,19,Brasilia,PIX
+1800,2023-07-30,Smartphone,Electronics,223.23,13,Sao Paulo,Debit Card
+1801,2023-08-18,Car,Toys,65.16,4,Salvador,Debit Card
+1802,2023-12-12,Volleyball,Sports,152.14,17,Rio de Janeiro,Boleto
+1803,2024-11-14,Tire,Automotive,254.13,15,Fortaleza,Debit Card
+1804,2023-04-18,Romance,Books,343.12,1,Belo Horizonte,Credit Card
+1805,2024-07-08,Bulb,Automotive,68.08,16,Rio de Janeiro,Boleto
+1806,2023-07-05,Bread,Food,187.55,17,Fortaleza,PIX
+1807,2025-10-04,Technical,Books,496.22,11,Rio de Janeiro,Cash
+1808,2025-11-03,Mouse,Electronics,128.71,15,Belo Horizonte,Debit Card
+1809,2024-09-29,Toothbrush,Beauty,175.93,12,Porto Alegre,Credit Card
+1810,2025-06-12,Soccer Ball,Sports,272.85,20,Salvador,Credit Card
+1811,2023-10-11,T-Shirt,Clothing,493.59,4,Goiania,Debit Card
+1812,2023-07-24,Cap,Clothing,490.23,4,Brasilia,Debit Card
+1813,2024-08-15,Toothbrush,Beauty,193.9,6,Belo Horizonte,Credit Card
+1814,2025-10-26,Notebook,Electronics,129.75,5,Fortaleza,Cash
+1815,2026-05-15,Camera,Electronics,38.63,7,Curitiba,PIX
+1816,2026-02-21,Brush,Automotive,387.06,5,Curitiba,PIX
+1817,2025-06-17,Cream,Beauty,300.98,14,Salvador,Cash
+1818,2023-08-20,Conditioner,Beauty,184.17,20,Curitiba,PIX
+1819,2025-12-06,Rice,Food,315.55,18,Salvador,Cash
+1820,2024-08-04,Bicycle,Sports,424,8,Goiania,Credit Card
+1821,2023-07-19,Fiction,Books,119.35,13,Fortaleza,Boleto
+1822,2024-12-24,Thermometer,Health,331.33,10,Porto Alegre,Boleto
+1823,2025-08-08,Bandage,Health,241.3,12,Brasilia,Boleto
+1824,2025-09-01,Toothbrush,Beauty,198.96,11,Goiania,Boleto
+1825,2025-09-28,Painkiller,Health,119.27,8,Sao Paulo,Credit Card
+1826,2023-12-19,Vitamins,Health,457.52,1,Sao Paulo,Boleto
+1827,2026-01-13,Pants,Clothing,338.81,17,Salvador,Debit Card
+1828,2025-07-10,Puzzle,Toys,165.8,9,Goiania,Debit Card
+1829,2025-10-11,Oil,Automotive,440.37,14,Brasilia,PIX
+1830,2025-11-20,Puzzle,Toys,385.7,11,Rio de Janeiro,Cash
+1831,2024-03-10,Volleyball,Sports,172.22,18,Salvador,Credit Card
+1832,2025-06-17,Shoes,Clothing,216.55,11,Rio de Janeiro,PIX
+1833,2023-05-17,Lego,Toys,253.44,10,Salvador,Credit Card
+1834,2023-12-22,TV,Electronics,255.06,10,Porto Alegre,Debit Card
+1835,2025-05-21,Self-Help,Books,326.65,3,Fortaleza,PIX
+1836,2023-08-01,Shoes,Clothing,244.51,12,Fortaleza,PIX
+1837,2024-09-24,Bandage,Health,496.73,11,Recife,Boleto
+1838,2024-04-07,Painkiller,Health,248.99,9,Recife,Debit Card
+1839,2023-03-31,Cheese,Food,350.71,11,Sao Paulo,Credit Card
+1840,2023-05-17,Children,Books,283.11,4,Sao Paulo,Boleto
+1841,2024-08-22,Soccer Ball,Sports,118.37,15,Recife,PIX
+1842,2025-08-06,Perfume,Beauty,386.96,16,Brasilia,Boleto
+1843,2024-09-08,Children,Books,370.96,13,Goiania,Credit Card
+1844,2024-12-15,Oil,Automotive,501.86,6,Curitiba,Credit Card
+1845,2023-11-05,Conditioner,Beauty,24.13,3,Recife,Cash
+1846,2026-01-04,Children,Books,439.02,2,Porto Alegre,Debit Card
+1847,2025-08-26,Romance,Books,21.9,10,Brasilia,PIX
+1848,2024-09-15,Wardrobe,Furniture,464.37,6,Recife,Cash
+1849,2025-09-20,Wardrobe,Furniture,496.7,3,Brasilia,Credit Card
+1850,2023-03-07,Skateboard,Sports,12.77,18,Sao Paulo,PIX
+1851,2023-01-27,Socks,Clothing,294.09,18,Sao Paulo,Boleto
+1852,2024-10-01,Thermometer,Health,280.19,11,Porto Alegre,Debit Card
+1853,2025-08-05,Mouse,Electronics,363.27,19,Porto Alegre,Credit Card
+1854,2025-08-26,History,Books,97.12,16,Rio de Janeiro,Credit Card
+1855,2024-10-23,Shampoo,Beauty,486.83,4,Sao Paulo,PIX
+1856,2025-10-01,Thermometer,Health,506.77,6,Salvador,Boleto
+1857,2025-02-26,Mouthwash,Health,241.4,3,Salvador,Credit Card
+1858,2023-06-28,Bulb,Automotive,120.04,7,Rio de Janeiro,PIX
+1859,2025-05-27,Tire,Automotive,56.78,8,Brasilia,PIX
+1860,2024-09-29,Action Figure,Toys,280.6,20,Fortaleza,Debit Card
+1861,2023-10-20,Shoes,Clothing,169.42,3,Salvador,Credit Card
+1862,2026-03-15,Volleyball,Sports,468.6,4,Curitiba,Boleto
+1863,2024-02-12,T-Shirt,Clothing,294.71,15,Brasilia,Debit Card
+1864,2024-08-27,Self-Help,Books,120.32,16,Recife,PIX
+1865,2024-05-27,Chair,Furniture,160.07,8,Recife,PIX
+1866,2023-12-22,Gym Wear,Sports,457.96,20,Goiania,Debit Card
+1867,2023-07-16,Tire,Automotive,161.83,16,Recife,Debit Card
+1868,2024-08-23,Cream,Beauty,359,9,Belo Horizonte,Credit Card
+1869,2024-12-28,Conditioner,Beauty,255.3,8,Salvador,Cash
+1870,2024-09-10,Soccer Ball,Sports,64.72,16,Sao Paulo,Debit Card
+1871,2025-02-10,Sofa,Furniture,51.19,11,Curitiba,Cash
+1872,2023-11-28,Non-Fiction,Books,55.85,2,Salvador,Credit Card
+1873,2026-03-06,Brush,Automotive,351.4,20,Brasilia,Boleto
+1874,2025-06-07,Socks,Clothing,119.42,8,Rio de Janeiro,Boleto
+1875,2023-06-01,Milk,Food,145.54,12,Belo Horizonte,Cash
+1876,2024-02-13,Skateboard,Sports,279.25,11,Sao Paulo,Debit Card
+1877,2023-01-08,Toothbrush,Beauty,400.2,7,Salvador,Debit Card
+1878,2025-02-16,Conditioner,Beauty,284.57,9,Sao Paulo,Cash
+1879,2023-04-03,Gym Wear,Sports,323.11,6,Fortaleza,Debit Card
+1880,2025-01-05,Mouse,Electronics,457.81,16,Goiania,Boleto
+1881,2023-08-23,Pants,Clothing,490.26,3,Porto Alegre,Debit Card
+1882,2023-01-11,Camera,Electronics,424.91,6,Salvador,Credit Card
+1883,2023-09-07,Table,Furniture,399.59,4,Fortaleza,Boleto
+1884,2026-01-22,Self-Help,Books,57.93,20,Porto Alegre,Credit Card
+1885,2024-10-15,Oil,Automotive,273.62,15,Salvador,Debit Card
+1886,2023-05-06,Jacket,Clothing,257.95,9,Porto Alegre,Credit Card
+1887,2023-08-03,Ball,Toys,160.95,6,Curitiba,PIX
+1888,2025-06-18,History,Books,492.71,7,Curitiba,Boleto
+1889,2025-07-30,Action Figure,Toys,111.02,17,Sao Paulo,Boleto
+1890,2023-10-11,Headphones,Electronics,250.77,14,Recife,PIX
+1891,2024-07-27,Toothpaste,Health,492.27,5,Goiania,Debit Card
+1892,2026-05-03,Dress,Clothing,421.66,15,Porto Alegre,Debit Card
+1893,2025-02-18,Cap,Clothing,127.62,20,Goiania,Boleto
+1894,2024-04-03,Soap,Beauty,208.28,4,Rio de Janeiro,Boleto
+1895,2025-08-03,Vitamins,Health,451.45,19,Brasilia,Debit Card
+1896,2023-10-19,Cap,Clothing,496.04,15,Porto Alegre,Credit Card
+1897,2025-12-25,Tire,Automotive,322.96,3,Belo Horizonte,PIX
+1898,2024-11-08,Keyboard,Electronics,105.97,13,Fortaleza,Credit Card
+1899,2023-09-09,Screwdriver,Automotive,199.93,13,Curitiba,PIX
+1900,2025-11-16,History,Books,125.72,9,Sao Paulo,Cash
+1901,2025-05-29,Dress,Clothing,400.68,4,Belo Horizonte,Debit Card
+1902,2025-12-05,Rice,Food,76.99,9,Sao Paulo,Credit Card
+1903,2026-03-09,History,Books,124.87,14,Rio de Janeiro,PIX
+1904,2023-06-26,Bed,Furniture,470.58,9,Sao Paulo,Credit Card
+1905,2026-01-25,Action Figure,Toys,474.82,11,Curitiba,Boleto
+1906,2024-08-11,Headphones,Electronics,319.97,15,Fortaleza,Debit Card
+1907,2023-08-28,Pants,Clothing,126.12,13,Porto Alegre,Cash
+1908,2024-01-03,Technical,Books,144.56,19,Curitiba,Credit Card
+1909,2026-05-30,Desk,Furniture,309.51,16,Belo Horizonte,Cash
+1910,2024-11-14,Toothbrush,Beauty,10.92,19,Rio de Janeiro,Credit Card
+1911,2026-05-06,History,Books,289.48,14,Recife,Cash
+1912,2025-02-08,Car,Toys,364.75,7,Rio de Janeiro,Cash
+1913,2024-02-03,Video Game,Toys,139.89,13,Porto Alegre,PIX
+1914,2024-04-25,History,Books,289.09,6,Recife,Cash
+1915,2025-02-15,Mouse,Electronics,54.23,2,Belo Horizonte,PIX
+1916,2023-02-25,Non-Fiction,Books,186.6,14,Curitiba,Credit Card
+1917,2024-11-08,Self-Help,Books,214.34,15,Porto Alegre,Debit Card
+1918,2026-02-16,T-Shirt,Clothing,137.76,10,Rio de Janeiro,Debit Card
+1919,2025-08-10,Meat,Food,424.08,5,Belo Horizonte,Cash
+1920,2026-04-20,Dress,Clothing,216.84,15,Belo Horizonte,Cash
+1921,2023-11-29,Soap,Beauty,281.68,12,Goiania,PIX
+1922,2024-10-10,Painkiller,Health,473.2,7,Goiania,Credit Card
+1923,2025-12-06,Dress,Clothing,245.04,2,Porto Alegre,Boleto
+1924,2023-03-03,Bandage,Health,317.58,8,Sao Paulo,Debit Card
+1925,2023-04-29,Sneakers,Sports,403,14,Curitiba,Debit Card
+1926,2026-04-18,Soap,Beauty,377.12,2,Sao Paulo,Credit Card
+1927,2024-03-20,Cheese,Food,320.58,15,Recife,Cash
+1928,2026-06-09,Shampoo,Beauty,300.77,14,Salvador,Cash
+1929,2024-01-21,Sneakers,Sports,52.41,5,Goiania,Credit Card
+1930,2025-12-11,Non-Fiction,Books,270.32,8,Fortaleza,PIX
+1931,2023-01-19,Filter,Automotive,111.65,9,Recife,Debit Card
+1932,2025-03-31,Oil,Automotive,85.37,7,Belo Horizonte,Boleto
+1933,2026-04-23,Ball,Toys,53.26,14,Brasilia,Debit Card
+1934,2024-10-31,Rice,Food,15.35,13,Brasilia,Credit Card
+1935,2025-10-19,Smartphone,Electronics,109.59,10,Goiania,Debit Card
+1936,2023-01-20,Paint,Automotive,150.1,15,Goiania,Boleto
+1937,2023-08-30,Bread,Food,137.9,4,Brasilia,Credit Card
+1938,2025-10-14,Shelf,Furniture,150.23,10,Recife,Debit Card
+1939,2024-09-23,Gym Wear,Sports,298.09,20,Sao Paulo,Cash
+1940,2023-09-25,Cheese,Food,256.42,10,Salvador,Credit Card
+1941,2026-03-12,Volleyball,Sports,487.03,6,Recife,Cash
+1942,2023-11-26,Car,Toys,19.51,5,Sao Paulo,Credit Card
+1943,2024-07-05,Toothpaste,Health,179.71,8,Rio de Janeiro,Debit Card
+1944,2024-05-11,Keyboard,Electronics,409.99,14,Curitiba,PIX
+1945,2026-02-07,Meat,Food,409.62,14,Salvador,Boleto
+1946,2024-07-03,Tablet,Electronics,313.06,18,Porto Alegre,Cash
+1947,2024-03-11,Paint,Automotive,245.23,15,Sao Paulo,Boleto
+1948,2026-02-28,Bicycle,Sports,436.11,11,Salvador,Credit Card
+1949,2025-05-03,Table,Furniture,449.43,14,Salvador,Credit Card
+1950,2023-11-30,Shelf,Furniture,221.1,15,Salvador,Debit Card
+1951,2024-12-30,Socks,Clothing,230.81,2,Goiania,Cash
+1952,2023-09-04,Banana,Food,359.83,10,Belo Horizonte,Cash
+1953,2023-08-23,Dress,Clothing,446.95,6,Porto Alegre,Cash
+1954,2026-05-13,Beans,Food,120.36,6,Sao Paulo,Credit Card
+1955,2025-02-20,Fiction,Books,334.53,7,Rio de Janeiro,Credit Card
+1956,2023-01-07,Oil,Automotive,345.62,11,Salvador,Debit Card
+1957,2023-11-12,Keyboard,Electronics,32.06,14,Recife,Boleto
+1958,2024-01-18,Makeup,Beauty,238.52,15,Recife,PIX
+1959,2023-09-05,Bicycle,Sports,60.45,15,Salvador,Debit Card
+1960,2024-01-30,Soccer Ball,Sports,190.85,17,Goiania,Boleto
+1961,2026-02-05,Socks,Clothing,117.85,15,Fortaleza,PIX
+1962,2026-03-03,Rice,Food,90.81,9,Porto Alegre,Debit Card
+1963,2026-03-12,Banana,Food,70.07,6,Belo Horizonte,PIX
+1964,2025-03-21,Conditioner,Beauty,430.37,1,Rio de Janeiro,Cash
+1965,2026-06-11,Fiction,Books,111.56,4,Sao Paulo,Debit Card
+1966,2026-03-17,Toothbrush,Beauty,22.89,5,Brasilia,Boleto
+1967,2026-04-15,T-Shirt,Clothing,446.18,7,Rio de Janeiro,Cash
+1968,2024-08-21,Vitamins,Health,14.82,5,Brasilia,Boleto
+1969,2023-08-19,Oil,Automotive,394.65,18,Fortaleza,Cash
+1970,2023-08-10,Soap,Beauty,482.61,15,Curitiba,PIX
+1971,2025-01-06,Cheese,Food,333.98,18,Brasilia,Debit Card
+1972,2026-05-05,Bandage,Health,483.24,8,Salvador,Debit Card
+1973,2024-06-19,Toothpaste,Health,174.05,1,Brasilia,Credit Card
+1974,2025-10-16,Brush,Automotive,164.95,10,Goiania,Boleto
+1975,2023-11-18,Perfume,Beauty,375.07,15,Brasilia,Boleto
+1976,2026-06-02,Puzzle,Toys,110.27,20,Recife,Debit Card
+1977,2025-01-29,Self-Help,Books,121.22,15,Goiania,Debit Card
+1978,2025-08-07,Wardrobe,Furniture,376.66,6,Fortaleza,Boleto
+1979,2026-05-25,TV,Electronics,255.47,18,Salvador,Boleto
+1980,2023-04-16,Apple,Food,122.54,7,Sao Paulo,Boleto
+1981,2024-12-20,Doll,Toys,122.67,17,Sao Paulo,Boleto
+1982,2024-07-11,Romance,Books,41.9,5,Curitiba,Cash
+1983,2024-11-22,Socks,Clothing,133.36,16,Belo Horizonte,PIX
+1984,2024-08-16,Conditioner,Beauty,396.31,17,Sao Paulo,Debit Card
+1985,2025-03-20,Keyboard,Electronics,155.01,3,Sao Paulo,Credit Card
+1986,2024-02-25,Sneakers,Sports,180.11,5,Brasilia,Credit Card
+1987,2024-01-25,Cream,Beauty,132.85,18,Porto Alegre,Cash
+1988,2024-02-02,Milk,Food,108.28,14,Fortaleza,PIX
+1989,2025-08-19,Dress,Clothing,60.33,16,Porto Alegre,Debit Card
+1990,2024-12-01,Screwdriver,Automotive,151.62,10,Rio de Janeiro,Boleto
+1991,2024-08-15,Table,Furniture,414.71,12,Recife,PIX
+1992,2023-01-05,Mouthwash,Health,504.19,17,Salvador,Boleto
+1993,2026-01-06,Action Figure,Toys,92.71,5,Sao Paulo,Debit Card
+1994,2025-08-12,Thermometer,Health,207.26,19,Curitiba,Boleto
+1995,2024-03-01,Cream,Beauty,79.89,11,Brasilia,Boleto
+1996,2026-02-09,Oil,Automotive,384.94,17,Sao Paulo,Debit Card
+1997,2025-12-21,Table,Furniture,187.22,7,Porto Alegre,Boleto
+1998,2024-05-02,Headphones,Electronics,403.95,13,Salvador,Debit Card
+1999,2025-10-13,Filter,Automotive,362.1,9,Recife,Credit Card
+2000,2023-06-05,Dress,Clothing,29.33,15,Belo Horizonte,PIX

@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { useLanguage } from '@/lib/i18n/useLanguage';
-import { ColumnInfo, DatasetInsights, DatasetRow } from '@/lib/parseFile';
+import { ColumnInfo, DatasetInsights, DatasetRow, parseFile } from '@/lib/parseFile';
 
 interface Props {
   onLoadResult: (result: {
@@ -24,16 +24,11 @@ export default function TestDataControls({ onLoadResult }: Props) {
   async function handleUse() {
     setLoading(true);
     try {
-      const res = await fetch(`/api/test-data?name=${encodeURIComponent(filename)}`);
+      const res = await fetch(`/${filename}`);
       if (!res.ok) throw new Error('Failed to fetch test file');
       const buf = await res.arrayBuffer();
-      const file = new File([buf], filename);
-      const form = new FormData();
-      form.append('file', file);
-      const r = await fetch('/api/upload', { method: 'POST', body: form });
-      if (!r.ok) throw new Error('Failed to process file');
-      const json = await r.json();
-      onLoadResult(json);
+      const result = parseFile(Buffer.from(buf), filename);
+      onLoadResult(result);
     } catch (err) {
       console.error(err);
       alert(err instanceof Error ? err.message : String(err));
@@ -84,7 +79,7 @@ export default function TestDataControls({ onLoadResult }: Props) {
 
         <div className="flex flex-col gap-1 w-auto items-start">
           <a
-            href={`/api/test-data?name=${encodeURIComponent(filename)}`}
+            href={`/${filename}`}
             className="w-28 sm:w-32 px-2 py-1 bg-white border border-gray-200 dark:bg-slate-800 dark:border-slate-700 rounded-md text-sm hover:bg-gray-50 text-center"
             download
             aria-label={t.home.testDataDownload}

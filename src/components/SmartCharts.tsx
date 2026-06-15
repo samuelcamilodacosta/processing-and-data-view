@@ -193,7 +193,7 @@ export default function SmartCharts({
           <div key={idx} className="space-y-4 min-w-0">
             <h4 className="text-lg font-bold">{chart.title}</h4>
             <div className="h-72 min-w-0 min-h-[220px]">
-              <ResponsiveContainer width="100%" height={300} style={{ minWidth: 0 }}>
+              <ResponsiveContainer width="100%" height={300}>
                 {chart.type === 'bar' && chart.xAxisKey && chart.yAxisKey && (
                   <BarChart data={chartData} margin={{ top: 10, right: 30, left: 20, bottom: 20 }}>
                     <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />

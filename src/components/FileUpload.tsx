@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useRef, useCallback } from 'react';
-import { ColumnInfo, DatasetInsights, DatasetRow } from '@/lib/parseFile';
+import { ColumnInfo, DatasetInsights, DatasetRow, parseFile } from '@/lib/parseFile';
 import { useLanguage } from '@/lib/i18n/useLanguage';
 
 type UploadStage = 'idle' | 'reading' | 'parsing' | 'processing' | 'generating' | 'error';
@@ -29,25 +29,15 @@ export default function FileUpload({ onDataLoaded }: FileUploadProps) {
       await new Promise(resolve => setTimeout(resolve, 350));
       setStage('parsing');
 
-      const formData = new FormData();
-      formData.append('file', file);
+      const buffer = Buffer.from(await file.arrayBuffer());
 
       await new Promise(resolve => setTimeout(resolve, 350));
       setStage('processing');
 
-      const response = await fetch('/api/upload', {
-        method: 'POST',
-        body: formData,
-      });
-
-      if (!response.ok) {
-        throw new Error('Failed to process file');
-      }
+      const result = parseFile(buffer, file.name);
 
       await new Promise(resolve => setTimeout(resolve, 250));
       setStage('generating');
-
-      const result = await response.json();
 
       await new Promise(resolve => setTimeout(resolve, 200));
       setStage('idle');

@@ -20,11 +20,12 @@ export default function TestDataControls({ onLoadResult }: Props) {
   const [loading, setLoading] = useState(false);
 
   const filename = lang === 'en' ? `test_data_en.${format}` : `test_data_pt.${format}`;
+  const basePath = '/processing-and-data-view';
 
   async function handleUse() {
     setLoading(true);
     try {
-      const res = await fetch(`/${filename}`);
+      const res = await fetch(`${basePath}/${filename}`);
       if (!res.ok) throw new Error('Failed to fetch test file');
       const buf = await res.arrayBuffer();
       const result = parseFile(Buffer.from(buf), filename);
@@ -79,7 +80,7 @@ export default function TestDataControls({ onLoadResult }: Props) {
 
         <div className="flex flex-col gap-1 w-auto items-start">
           <a
-            href={`/${filename}`}
+            href={`${basePath}/${filename}`}
             className="w-28 sm:w-32 px-2 py-1 bg-white border border-gray-200 dark:bg-slate-800 dark:border-slate-700 rounded-md text-sm hover:bg-gray-50 text-center"
             download
             aria-label={t.home.testDataDownload}

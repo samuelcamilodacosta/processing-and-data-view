@@ -15,7 +15,7 @@ export default function Home() {
   const { t } = useLanguage();
 
   return (
-    <div className="min-h-[calc(100vh-80px)] flex flex-col">
+    <div className="min-h-[calc(100vh-2rem)] flex flex-col">
       {data.length === 0 ? (
         <div className="flex-1 flex flex-col px-4 py-8 w-full">
           <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
@@ -73,7 +73,7 @@ export default function Home() {
                 <div className="mt-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
                   <div className="text-xs text-gray-600 dark:text-gray-400">{t.home.supports}</div>
                   <div className="flex gap-2">
-                    {['.csv'].map((ext) => (
+                    {['.csv', '.xls', '.xlsx'].map((ext) => (
                       <span key={ext} className="px-2 py-1 bg-gray-50 dark:bg-slate-700 border border-gray-100 dark:border-slate-600 rounded-md text-xs font-medium">{ext}</span>
                     ))}
                   </div>

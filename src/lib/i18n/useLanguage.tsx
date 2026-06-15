@@ -1,6 +1,6 @@
 "use client";
 
-import React, { createContext, useContext, useEffect, useState } from 'react';
+import React, { createContext, useContext, useSyncExternalStore } from 'react';
 import { Language, translations } from './translations';
 
 export type { Language } from './translations';
@@ -13,30 +13,41 @@ type LanguageContextType = {
 
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined);
 
+const LANGUAGE_STORAGE_KEY = 'language';
+const LANGUAGE_CHANGE_EVENT = 'languagechange';
+
+function getLanguageSnapshot(): Language {
+  if (typeof window === 'undefined') return 'pt';
+
+  const savedLang = localStorage.getItem(LANGUAGE_STORAGE_KEY);
+  if (savedLang === 'pt' || savedLang === 'en') {
+    return savedLang;
+  }
+
+  const browserLang = (navigator.language || 'pt').split('-')[0];
+  return browserLang === 'en' ? 'en' : 'pt';
+}
+
+function getServerSnapshot(): Language {
+  return 'pt';
+}
+
+function subscribe(callback: () => void) {
+  window.addEventListener('storage', callback);
+  window.addEventListener(LANGUAGE_CHANGE_EVENT, callback);
+
+  return () => {
+    window.removeEventListener('storage', callback);
+    window.removeEventListener(LANGUAGE_CHANGE_EVENT, callback);
+  };
+}
+
 export function LanguageProvider({ children }: { children: React.ReactNode }) {
-  const [language, setLanguageState] = useState<Language>(() => {
-    if (typeof window === 'undefined') return 'pt';
-
-    const savedLang = localStorage.getItem('language') as Language | null;
-    if (savedLang === 'pt' || savedLang === 'en') {
-      return savedLang;
-    }
-
-    const browserLang = (navigator.language || 'pt').split('-')[0];
-    if (browserLang === 'pt' || browserLang === 'en') {
-      return browserLang as Language;
-    }
-
-    return 'pt';
-  });
-
-  useEffect(() => {
-    localStorage.setItem('language', language);
-  }, [language]);
+  const language = useSyncExternalStore(subscribe, getLanguageSnapshot, getServerSnapshot);
 
   const setLanguage = (lang: Language) => {
-    setLanguageState(lang);
-    if (typeof window !== 'undefined') localStorage.setItem('language', lang);
+    localStorage.setItem(LANGUAGE_STORAGE_KEY, lang);
+    window.dispatchEvent(new Event(LANGUAGE_CHANGE_EVENT));
   };
 
   const value: LanguageContextType = {

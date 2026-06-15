@@ -5,6 +5,8 @@ export const translations = {
     header: {
       title: 'DataInsight Pro',
       subtitle: 'Visualização de Dados Inteligente',
+      sidebarTitle: 'Visão de dados',
+      sidebarDescription: 'Envie arquivos, inspecione colunas e exporte insights em um espaço focado.',
     },
     home: {
       badge: '✨ Novo: Gráficos inteligentes e auto-gerados!',
@@ -106,9 +108,9 @@ export const translations = {
         others: 'Outros',
       },
       export: {
-        exportCharts: 'Export Charts (PNG)',
-        exportChartsData: 'Export Charts Data (CSV)',
-        exportData: 'Export Data (CSV)',
+        exportCharts: 'Exportar gráficos (PNG)',
+        exportChartsData: 'Exportar dados dos gráficos (CSV)',
+        exportData: 'Exportar dados (CSV)',
       },
     },
   },
@@ -116,6 +118,8 @@ export const translations = {
     header: {
       title: 'DataInsight Pro',
       subtitle: 'Intelligent Data Visualization',
+      sidebarTitle: 'Data view',
+      sidebarDescription: 'Upload files, inspect columns and export insights from a focused workspace.',
     },
     home: {
       badge: '✨ New: Smart auto-generated charts!',

@@ -20,7 +20,7 @@ export default function TestDataControls({ onLoadResult }: Props) {
   const [loading, setLoading] = useState(false);
 
   const filename = lang === 'en' ? `test_data_en.${format}` : `test_data_pt.${format}`;
-  const basePath = '/processing-and-data-view';
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? '';
 
   async function handleUse() {
     setLoading(true);
